@@ -1,0 +1,23 @@
+- title: About me
+  url: "/index.html"
+  side: left
+
+- title: Projects
+  url: "/project/"
+  side: left
+
+- title: "Publications"
+  url: "/publications/"
+  side: left
+
+- title: "CV"
+  url: "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf"
+  side: left 
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
