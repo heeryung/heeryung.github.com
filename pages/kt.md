@@ -10,6 +10,9 @@ permalink: "/project/kt/"
 header: no
 ---
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/kQlr-k_XtuQ" frameborder="0" allowfullscreen></iframe>
+
+
 <h4> Summary </h4>
 KIWEE(Kinetic typography Instant messenger With Emotional Expression) allows users to automatically create kinetic typography effect, encouraging deliver emotions through text.</strong> Kinetic typography(KT) enables users to better convey emotions in text-based communication. In this project, we propose a sentence-level KT system that generates and assigns effects to the text input. We believe that our system improves the utilization of KT for broader applications. The system consists of 5 steps, and we focused on creating an algorithm for automated processing and layout of text, as in a sentence.
 
