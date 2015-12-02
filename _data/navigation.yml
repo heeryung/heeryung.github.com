@@ -13,11 +13,3 @@
 - title: "CV"
   url: "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf"
   side: left 
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
