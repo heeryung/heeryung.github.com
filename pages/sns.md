@@ -10,21 +10,23 @@ permalink: "/project/trust/"
 header: no
 ---
 
+<div id = "sequenceContainer">
+<div style = "padding: 40px;">
 <h4> Summary </h4>
 <div class="row">
-<div class="medium-3 columns">
-<img src="http://heeryung.github.io/images/sns_2-2.png">
-</div>
 <div class="medium-9 columns">
 <p> This work focuses on how to utilize human resources in social network including weak tie and strong tie. We suggest a recommendation model based on the idea that the person whom my reliable person relies on is reliable. Based on the trust as a feature, a new type of a social network is rebuilt.</p>
+</div>
+<div class="medium-3 columns">
+<img src="http://heeryung.github.io/images/sns_2-2.png">
 </div>
 </div>
 
 
 <h4> Keywords </h4>
-trust, social network service
+Trust, social network service
 
-<h4> Collaborators </h4>
+<h4> People </h4>
 Guhyun Hahn, Hunjin Park, Jeongmoon Choi
 
 <h4> Project Type </h4>
@@ -33,62 +35,58 @@ Class project
 <h4> Research Methods </h4>
 Prototyping, social network analysis
 
+<h4> Reserach Motivation </h4>
+<ul>
+    <li>
+    <li>
+</ul>
 
 
-<div id = "sequenceContainer">
+<h4> Results </h4>
+<div id = "sequenceContainer2">
 <div style = "padding: 5px;">
-    <div class = "row">
-        <div class = "medium-5 columns">
-        <img src = "http://heeryung.github.io/images/sns_2-1.png">
-        </div>
-        <div class = "medium-5 columns">
-        <p> A message is sent from an applicant node. </p>
-        </div>
-    </div>
-    <div class = "row">
-    <h5> success </h5>
-        <div class = "medium-5 columns">
-        <img src = "http://heeryung.github.io/images/sns_2-3.png">
-        </div>
-        <div class = "medium-5 columns">
-        <p> A message is rejected during hops by a middle node. </p>
-        </div>
+    <div id = "sequenceContainer2-1">
+    <div style = "padding: 10px;">
+        <strong> 1. Request Sent </strong>
+            <div class = "row">
+                <div class = "medium-8 columns">
+                    <img src = "http://heeryung.github.io/images/sns_2-1.png">
+                    <p> A message is sent from an applicant node. </p>
+                </div>
+            </div>
     </div>
 
-
-# fail1
-    <div class = "row">
-        <div class = "medium-5 columns">
-        <img src = "http://heeryung.github.io/images/sns_2-4.png">
-        </div>
-        <div class = "medium-5 columns">
-        <p> A message is successfuly reached but rejected by an employer. </p>
-        </div>
-    </div> 
-# rejection
-    <div class = "row">
-        <div class = "medium-5 columns">
-        <img src = "http://heeryung.github.io/images/sns_2-2.png">
-        </div>
-        <div class = "medium-5 columns">
-        <p> A message is successfully reached and accpeted. </p>
-        </div>
-        </div> 
+    <div id = "sequenceContainer2-1">
+    <div style = "padding: 10px;">
+        <strong> 2-1. Request Failed to be Delivered </strong>
+            <div class = "row">
+                <div class = "medium-8 columns">
+                    <img src = "http://heeryung.github.io/images/sns_2-3.png">
+                    <p> A message is rejected during hops by a middle node. </p>
+                </div>
+            </div>
     </div>
 
 
-▪	 A bag of words라 하여 NLP에서 흔히 쓰이는 방식을 사용함. 본 알고리즘은 입력값을 단어 수준으로 parsing하여 개별 단어에서 감정을 읽어내는 방식으로 구성되었음. 
+    <div id = "sequenceContainer2-1">
+    <div style = "padding: 10px;">
+        <strong> 2-2. Request Delivered & Denied </strong>
+            <div class = "row">
+                <div class = "medium-8 columns">
+                    <img src = "http://heeryung.github.io/images/sns_2-4.png">
+                    <p> A message is successfuly reached but rejected by an employer. </p>
+                </div>
+            </div> 
+    </div>
 
-▪	수치화되지 않은 감정값을 수치화하고, 
-
-▪	computational linguistics 적인 지식을 필요로 했으며
-
-
-
-
-//
-<h4> 결과물 </h4>
-1. KT-messenger
-// 동영상
-2. E-book sample
-// 동영상
+    <div id = "sequenceContainer2-1">
+    <div style = "padding: 10px;">
+        <strong> 2-3. Request Accepted </strong>
+            <div class = "row">
+                <div class = "medium-8 columns">
+                    <img src = "http://heeryung.github.io/images/sns_2-2.png">
+                    <p> A message is successfully reached and accpeted. </p>
+                </div> 
+            </div>
+    </div>
+</div>
