@@ -17,7 +17,7 @@ In this research, we propose a kinetic typography (KT) layout engine, which gene
 
 
 <h4> Keywords </h4>
-KT, emotion, messenger
+Kinetic typography, emotion, messenger
 
 <h4> Research Methods </h4>
 Text-processing, semi-structured interview, qualitative research, prototyping
@@ -31,7 +31,7 @@ Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <stro
 </ul>
 
 <h4> People </h4>
-Joonhwan Lee, Donghwan Kim, Inho Wohn, Jieun Wee, Sooyeun Jang, Yaena Jang (Seoul National University) 
+Joonhwan Lee, Donghwan Kim, Inho Wohn, Jieun Wee, Sooyeun Jang, Yaena Jang (Seoul National University), 
 Younghoon Kim (University of Washington)
 
 <h4> Acknowledgement </h4>
@@ -50,21 +50,33 @@ This work was supported by the IT R&D program of MKE/KEIT, (10041794, Developmen
 
 
 <h4> KT Layout Engine </h4>
-<div id = "large_image_container">
-    <div style = "padding: 5px;">
-    <div id = "images_container">
-    <div style ="padding: 10px; text-align: center">
-        Figure 1. Workflow of KT Layout Engine <br>
-        <img src = "http://heeryung.github.com/images/kt_workflow.png">
-    </div>
-    <div class = "row">
-        <div class="medium-6 columns">
-            Figure 2. The prototype of KT Layout Engine <br>
-            <img src = "http://heeryung.github.com/images/kt_prototype.png">
+<div id = "imageContainer_kt">
+    <div class="row">
+    <div style = "margin: 10px 10px; padding: 15px;">
+        <div class = "medium-10 columns"> <img src = "http://heeryung.github.com/images/kt_workflow.png">
+            <div class = "row">                    
+                <div class = "medium-12 columns"> Figure 1. Workflow of KT Layout Engine
+                </div>
+            </div>
         </div>
-        <div class="medium-6 columns">
-            Figure 3. An automated KT generator for real-time messenger <br>
-            <img src = "http://heeryung.github.com/images/kt_messenger.png">
+    </div>
+
+
+    <div class = "row">
+    <div style = "margin: 10px 10px; padding: 15px;">
+        <div class="medium-8 columns"> <img src = "http://heeryung.github.com/images/kt_prototype.png">
+            <div class = "row"> 
+                <div class="medium-12 columns">
+                    Figure 2. The prototype of KT Layout Engine
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns"> <img src = "http://heeryung.github.com/images/kt_messenger.png">
+            <div class = "row">
+                <div class = "medium-12 columns">           
+                    Figure 3. An automated KT generator for real-time messenger 
+                </div>           
+            </div>
         </div>
     </div>
 </div>
@@ -72,11 +84,11 @@ This work was supported by the IT R&D program of MKE/KEIT, (10041794, Developmen
 <ul>
     <li> Emotions were coded on the moods (positive/negative) - energy (arousal) dimension. </li>
     <li> <a href="http://dl.acm.org/citation.cfm?id=571997">Preliminary research</a> findings indicate how mood and energy level can be represented through KT moods. </li>
-    <li> Figure 1 reveals the architecture of the proposed system, a KT layout engine, which generates sentence-level KT text to convey emotions in text-based communication.
-    <li> Using the KT effect library we had built, the prototype for the KT system was established using JavaScript toolkits (figure 2). </li>    
+    <li> <strong>Figure 1</strong> reveals the architecture of the proposed system, a KT layout engine, which generates sentence-level KT text to convey emotions in text-based communication.
+    <li> Using the KT effect library we had built, the prototype for the KT system was established using JavaScript toolkits <strong>(figure 2)</strong>. </li>    
     <li> An experiment was carried out to see how well KT effects created by the designed algorithm represent feelings. </li> 
     <li> The result shows that the proposed KT system creates, assigns, and displays the effects in a way that conveys emotion through a sentence- level text: both of the two dimensions of emotion were effectively delivered, i.e. mood (positive-negative) and energy level (high-low). </li>
-    <li> Verifying the validity of the proposed system, an automated KT generator for a real-time messenger developed.
+    <li> Verifying the validity of the proposed system, an automated KT generator for a real-time messenger developed <strong>(figure 3)</strong>.
 </ul>
 
         
