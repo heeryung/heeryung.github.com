@@ -44,22 +44,48 @@ This work was supported by the IT R&D program of MKE/KEIT, (10041794, Developmen
 
 <h4> Research Motivation </h4>
 <ul>
-    <li> To develop sentence-level . </li>
+    <li> To develop a <strong>sentence-level</strong> KT generator. </li>
     <li> To build an <strong>automatic</strong> KT generator in order to faciliate more end users applying KT. </li>
     <li> To build a <strong>real-time</strong> KT generator in order to deliver emotion in CMC. </li>
 </ul>
 
 
-<h4> Preliminary Study </h4>
+<h4> Kinetic Typography Layout Engine - Study 1 </h4>
+    <p> In this research, we propose a kinetic typography layout engine, which generates sentence-level kinetic typography text to convey emotions in text-based communication </p>
+
 <ul>
     <li> Emotions were coded on the moods (positive/negative) - energy (arousal) dimension. </li>
-    <li> <a href="Evaluating Pre-defined Kinetic Typography Effects to Convey Emotions">Preliminary research</a> findings indicate how mood and energy level can be represented through kinetic typography moods. </li>
-    <li> Based on the KT effect library we build, the prototype for the KT system was established using JavaScript toolkits. </li>
-    <img src = "">
-
+    <li> <a href="http://dl.acm.org/citation.cfm?id=571997">Preliminary research</a> findings indicate how mood and energy level can be represented through kinetic typography moods. </li>
+    <li> Figure 1 reveals the architecture of the proposed system, a kinetic typography layout engine, which generates sentence-level kinetic typography text to convey emotions in text-based communication.
+    <li> Using the KT effect library we had built, the prototype for the KT system was established using JavaScript toolkits (figure 2). </li>
+    <div id = "images_container">
+    <div style ="padding: 5px;">
+        <div class = "row">
+            <div class="medium-5 columns">
+                <img src = "http://heeryung.github.com/images/kt_workflow.png"><br>figure 1. Workflow of Kinetic Typography Layout Engine<br>
+            </div>
+            <div class="medium-5 columns">
+                <img src = "http://heeryung.github.com/images/kt_prototype.png"><br>figure 2. The prototype of Kinetic Typography Layout Engine
+            </div>
+        </div>
+    </div>
+    <li> An experiment was carried out to see how well kinetic typography effects created by the designed algorithm represent feelings. </li> 
+    <li> The result shows that the proposed kinetic typography system creates, assigns, and displays the effects in a way that conveys emotion through a sentence- level text: both of the two dimensions of emotion were effectively delivered, i.e. mood (positive-negative) and energy level (high-low). </li>
 </ul>
 
+<h4> Kinetic Typography Layout Engine - Study 2 </h4>
+    <p> An automatic KT generator, KIWEE, have been developed (figure 3). </p>
+    <div id = "images_container">
+    <div style ="padding: 5px;">
+        <div class = "row">
+        <div class="medium-5 columns">
+            <img src = "http://heeryung.github.com/images/kt_messenger.png"><br>figure 3. An automated KT generator for real-time messenger
+        </div>
+    </div>
 
-<h4> Results </h4>
+        
+
+    
+
 
 
