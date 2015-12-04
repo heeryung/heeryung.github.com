@@ -8,12 +8,9 @@ categories:
 permalink: /project/
 header: no
 ---
-<!--more-->
-
 
 <div id = "container">
 <div style="padding: 5px;">
-    <!--new row-->
     <div class="row">
         <a href = "http://heeryung.github.io/project/kt/">
         <h4>KIWEE</h4> </a>
@@ -66,7 +63,7 @@ header: no
         </div>
     </div>
      
-    <!-- 4th image -->
+    <!-- 5th image -->
     <div class="row">
         <a href = "http://heeryung.github.io/project/eyetracking/">
         <h4> Study on readability of Korean online media page </h4> </a>
@@ -78,27 +75,6 @@ header: no
         <div class="medium-9 columns">
         <p>  </p>
         </div>
-    </div>
-        
-
-</div>
-
-
-<div id = "container2">
-<div style="padding: 5px;">
-<h3> Class Projects </h3>
-
-<br>
-<br>
-
-<!--new row-->
-<div class="row">
-    <div class="medium-3 columns">
-        <img src="http://placehold.it/470x264/6b6351/e1dcd7&amp;text=2+Columns">
-    </div>
-
-    <div class="medium-9 columns">
-        <p> Another sample abstract will be located here. </p>
     </div>
 </div>
 

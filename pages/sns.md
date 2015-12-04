@@ -10,8 +10,6 @@ permalink: "/project/trust/"
 header: no
 ---
 
-<div id = "sequenceContainer">
-<div style = "padding: 40px;">
 <h4> Summary </h4>
 <div class="row">
 <div class="medium-9 columns">
@@ -32,17 +30,27 @@ Guhyun Hahn, Hunjin Park, Jeongmoon Choi
 <h4> Project Type </h4>
 Class project
 
+<hr>
+
 <h4> Research Methods </h4>
 Prototyping, social network analysis
 
 <h4> Reserach Motivation </h4>
 <ul>
-    <li>
-    <li>
+    <li> To verify reliability of human resource in the social network. <br>
+        → How to fully utilized week and strong tie in order to search a target (e.g. roommates, co-workers...)? 
+        → A model based on the idea that "A person whom my reliable person relies on is reliable." </li>
 </ul>
 
+<h4> Trust Model </h4>
+<ul> 
+    <li> User A will announce a recruitment notice. </li>
+    <li> User B, a node indirectly connected to the user A, will apply for the positions through sending a message. </li>
+    <li> The system will build the path between a user and a target and deliver the message. </li>
+    <li> Users/nodes between the user A and the user B will judge whether the message should be delivered to the next node or not, depending on reliability of the user B for the position. </li>
+    <li> If the user A receives the message, the user A will make a final decision on the recruitment. </li>
 
-<h4> Results </h4>
+<h4> Possible Cases of Trust Model </h4>
 <div id = "sequenceContainer2">
 <div style = "padding: 5px;">
     <div id = "sequenceContainer2-1">
@@ -89,4 +97,3 @@ Prototyping, social network analysis
                 </div> 
             </div>
     </div>
-</div>
