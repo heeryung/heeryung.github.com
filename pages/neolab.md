@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "Neolab Pen Computing project"
+title:  "Neolab Pen Computing Project"
 teaser: ""
 breadcrumb: true
 tag: project, neolab, pen computing
@@ -20,7 +20,7 @@ header: no
 <h4> Keywords </h4>
 pen computing, education
 
-<h4> Research methods </h4>
+<h4> Research Methods </h4>
 Semi-structured interview, user-centered design, persona
 
 

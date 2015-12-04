@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline:  ""
-title:  "Study on readability of Korean online media page"
+title:  "Study on Readability of Korean Online Media Page"
 teaser: ""
 breadcrumb: true
 categories:
@@ -29,7 +29,7 @@ Eye-tracking, readability, online media, class project
 Eye-tracking
 
 <h4> People </h4>
-Je Seok Lee, Yujin Kim, Jihee Suh, Yeana Zhang (Seoul National University)
+Je Seok Lee, Yujin Kim, Jihee Suh, Yina Zhang (Seoul National University)
 
 
 <hr>

@@ -23,6 +23,10 @@ user-centered design
 <a href = "http://dl.acm.org/citation.cfm?id=2793686">
 Lee, Je Seok, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interactive White Cane for Visually Impaired People's Bus Usage." </a> <em>Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct.</em> ACM, 2015.
 
+
+<hr>
+
+
 <h4> Research Motivation </h4>
 <ul>
     <li> Most of transit applications do not provide interfaces for the visually impaired, which makes using those applications on the road risky to the visually impaired.
