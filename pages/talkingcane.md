@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 subheadline:  ""
 title:  "Project TalkingCane"
 teaser: ""
@@ -10,24 +10,18 @@ permalink: "/project/talkingcane/"
 header: no
 ---
 
-
-
-TalkingCane
-
-
-
 <h4> Summary </h4>
 A white cane was redesigned into TalkingCane, an interactive instrument for communication between visually impaired people and the world. The research goal of this project is to facilitate bus usage by visually impaired and hence increase their ability to exercise their essential right of accessibility in their daily lives.
 
 <h4> Keywords </h4>
-accessibility, visually impaired; Assistive technology; Public data usage; Public transportation
+Accessibility; visually impaired; assistive technology; public data usage; public transportation
 
 <h4> Research methods </h4>
 user-centered design
 
 <h4> Publications </h4>
 <a href = "http://dl.acm.org/citation.cfm?id=2793686">
-Lee, Je Seok, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interactive White Cane for Visually Impaired People's Bus Usage." <em>Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct.</em> ACM, 2015.
+Lee, Je Seok, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interactive White Cane for Visually Impaired People's Bus Usage." </a> <em>Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct.</em> ACM, 2015.
 
 <h4> Research Motivation </h4>
 <ul>
