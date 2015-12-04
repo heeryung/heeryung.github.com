@@ -23,8 +23,6 @@ pen computing, education
 <h4> Research methods </h4>
 Semi-structured interview, user-centered design, persona
 
-<h4> Acknowledgement </h4>
-
 
 
 

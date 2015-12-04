@@ -19,7 +19,7 @@ In this research, we propose a kinetic typography (KT) layout engine, which gene
 <h4> Keywords </h4>
 KT, emotion, messenger
 
-<h4> Research methods </h4>
+<h4> Research Methods </h4>
 Text-processing, semi-structured interview, qualitative research, prototyping
 
 <h4> Publications </h4>
@@ -29,7 +29,6 @@ Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <stro
     <li><a href="http://www.dbpia.co.kr/Article/NODE06139482">Sentence-level KT Generating System</a><br>Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>HCI Korea 2015</em></li>
     <li><a href="http://heeryung.github.com/assets/files/multimedia_kt.pdf">The Architecture of Automatic KT Effects Generating System</a><br>Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>Korea Multimedia Society 2014</em></li>
 </ul>
-
 
 <h4> People </h4>
 Joonhwan Lee, Donghwan Kim, Inho Wohn, Jieun Wee, Sooyeun Jang, Yaena Jang (Seoul National University) 
@@ -50,7 +49,7 @@ This work was supported by the IT R&D program of MKE/KEIT, (10041794, Developmen
 </ul>
 
 
-<h4> KT Layout Engine - Study 1 </h4>
+<h4> KT Layout Engine </h4>
 <div id = "large_image_container">
     <div style = "padding: 5px;">
     <div id = "images_container">
