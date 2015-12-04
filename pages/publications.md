@@ -12,5 +12,5 @@ permalink: "/publications/"
     <li><a href="http://www.dbpia.co.kr/Article/NODE06228881">Evaluating System-Generated Kinetic Typography Effects for Sentence-Level Text Layout</a><br>
 Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>The Korean Institute of Information Scientists and Engineers 2014</em></li><br><br>
     <li><a href="http://www.dbpia.co.kr/Article/NODE06139482">Sentence-level Kinetic Typography Generating System</a><br>Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>HCI Korea 2015</em></li><br><br>
-    <li><a href="">The Architecture of Automatic Kinetic Typography Effects Generating System</a><br>Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>Korea Multimedia Society 2014</em></li><br><br>
+    <li><a href="http://heeryung.github.com/assets/files/multimedia_kt.pdf">The Architecture of Automatic Kinetic Typography Effects Generating System</a><br>Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>Korea Multimedia Society 2014</em></li><br><br>
 </ul>
