@@ -31,7 +31,7 @@ Lee, Je Seok, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interacti
     </li> 
 </ul>
 
-<h4> Apporach </h4>
+<h4> TalkingCane </h4>
 <img src = "http://heeryung.github.com/images/mobilehci-302x182.png">
 <ul>
     <li> A white cane communicating with the surrounding environment can be considered a solution.

@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 subheadline:  ""
 title:  "Study on readability of Korean online media page"
 teaser: ""
@@ -9,8 +9,6 @@ categories:
 permalink: "/project/eyetracking/"
 header: no
 ---
-
-Study on readability of Korean online media page
 
 
 <h4> Summary </h4>

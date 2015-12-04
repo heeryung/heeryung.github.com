@@ -10,7 +10,6 @@ header: no
 ---
 
 <div id = "container">
-<div style="padding: 5px;">
     <div class="row">
         <a href = "http://heeryung.github.io/project/kt/">
         <h4>KIWEE</h4> </a>
@@ -45,7 +44,7 @@ header: no
         <img src="http://heeryung.github.io/images/smartpen2.jpg">
         </div>
         <div class="medium-9 columns">
-            <p> Neolab pen computing is the project exploring... </p>
+            <p> An aim of this work is to expand the usage of N2, a smart pen of <a href = "http://www.neosmartpen.com/en">NEOLAB</a>. </p>
         </div>
     </div>
 
@@ -65,20 +64,15 @@ header: no
      
     <!-- 5th image -->
     <div class="row">
-        <a href = "http://heeryung.github.io/project/eyetracking/">
+            <a href = "http://heeryung.github.io/project/eyetracking/">
         <h4> Study on readability of Korean online media page </h4> </a>
         <h6> Keywords : eye-tracking, readability, online media, class project </h6>
         <br>
         <div class="medium-3 columns">
-        <img src="http://heeryung.github.io/images/eye-gaze-data.png">
+        <img src="http://heeryung.github.io/images/eye_gaze_data.png">
         </div>
         <div class="medium-9 columns">
-        <p>  </p>
+        <p> Using eyetracker, we explored eye gaze of people reading online news. An aim of the work is to study people's reading habit on reading online news website in South Korea which still seems to be out-dated or under-developed in terms of UX design  </p>
         </div>
     </div>
 </div>
-
-
-
-
- [1]: http://foundation.zurb.com/docs/components/grid.html
