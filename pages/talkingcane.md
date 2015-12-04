@@ -32,8 +32,8 @@ Lee, Je Seok, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interacti
 </ul>
 
 <h4> Apporach </h4>
+<img src = "http://heeryung.github.com/images/mobilehci-302x182.png">
 <ul>
-    <img src = "http://heeryung.github.com/images/talking_cane.jpg"> 
     <li> A white cane communicating with the surrounding environment can be considered a solution.
     </li>
     <li> Communcation with impending surroundings will be acheived through reading RFID chips in the braille road blocks. RFID chip reader at the bottom of the white cane reads the information and tells users the exact information on the location of target place including bus stops. 
