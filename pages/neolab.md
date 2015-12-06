@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 subheadline:  ""
 title:  "Neolab Pen Computing Project"
 teaser: ""

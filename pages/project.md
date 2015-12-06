@@ -22,6 +22,7 @@ header: no
         </div>
     </div>
 
+
     <!-- 2nd image -->
     <div class="row">
         <a href = "http://heeryung.github.io/project/talkingcane/">
@@ -35,20 +36,22 @@ header: no
         </div>
     </div>
 
-    <!-- 3rd image -->
+
+    <!-- Eyetracking image -->
     <div class="row">
-        <a href = "http://heeryung.github.io/project/neolab/">
-        <h4> NEOLAB Pen Computing </h4> </a>
-        <h6> Keywords : pen computing, education </h6>
+        <a href = "http://heeryung.github.io/project/eyetracking/">
+        <h4> Study on readability of Korean online media page </h4> </a>
+        <h6> Keywords : eye-tracking, readability, online media, class project </h6>
         <div class="medium-3 columns">
-        <img src="http://heeryung.github.io/images/smartpen2.jpg">
+        <img src="http://heeryung.github.io/images/eye_gaze_data.png">
         </div>
         <div class="medium-9 columns">
-            <p> An aim of this work is to expand the usage of N2, a smart pen of <a href = "http://www.neosmartpen.com/en">NEOLAB</a>. </p>
+        <p> Using eyetracker, we explored eye gaze of people reading online news. An aim of the work is to study people's reading habit on reading online news website in South Korea which still seems to be out-dated or under-developed in terms of UX design  </p>
         </div>
     </div>
 
-    <!-- 4th image -->
+
+    <!-- Trust-Sourcing -->
     <div class="row">
         <a href = "http://heeryung.github.io/project/trust/">
         <h4> Trust-sourcing </h4> </a>
@@ -61,18 +64,18 @@ header: no
         <p> This work focuses on how to utilize human resources in social network including weak tie and strong tie. We suggest a recommendation model based on the idea that the person whom my reliable person relies on is reliable. </p>
         </div>
     </div>
-     
-    <!-- 5th image -->
+        
+
+    <!-- Neolab -->
     <div class="row">
-            <a href = "http://heeryung.github.io/project/eyetracking/">
-        <h4> Study on readability of Korean online media page </h4> </a>
-        <h6> Keywords : eye-tracking, readability, online media, class project </h6>
-        <br>
+        <a href = "http://heeryung.github.io/project/neolab/">
+        <h4> NEOLAB Pen Computing </h4> </a>
+        <h6> Keywords : pen computing, education </h6>
         <div class="medium-3 columns">
-        <img src="http://heeryung.github.io/images/eye_gaze_data.png">
+        <img src="http://heeryung.github.io/images/smartpen2.jpg">
         </div>
         <div class="medium-9 columns">
-        <p> Using eyetracker, we explored eye gaze of people reading online news. An aim of the work is to study people's reading habit on reading online news website in South Korea which still seems to be out-dated or under-developed in terms of UX design  </p>
+        <p> An aim of this work is to expand the usage of N2, a smart pen of <a href = "http://www.neosmartpen.com/en">NEOLAB</a>. </p>
         </div>
     </div>
 </div>
