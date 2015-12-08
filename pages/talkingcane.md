@@ -36,7 +36,16 @@ Lee, Je Seok, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interacti
 </ul>
 
 <h4> TalkingCane </h4>
-<img src = "http://heeryung.github.com/images/mobilehci-302x182.png">
+<div class = "row">
+    <div class="medium-8 columns">
+        <img src = "http://heeryung.github.com/images/mobilehci-302x182.png">
+        <br> Figure 1. Journey map of TalkingCane
+    </div>
+    <div class="medium-4 columns">
+        <img src = "http://heeryung.githumb.com/images/talking_cane.jpg">
+        <br> Figure 2. Design of TalkingCane
+    </div>
+</div>
 <ul>
     <li> A white cane communicating with the surrounding environment can be considered a solution.
     </li>
