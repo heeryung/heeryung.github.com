@@ -21,7 +21,7 @@ user-centered design
 
 <h4> Publications </h4>
 <a href = "http://dl.acm.org/citation.cfm?id=2793686">
-Lee, Je Seok, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interactive White Cane for Visually Impaired People's Bus Usage." </a> <em>Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct.</em> ACM, 2015.
+Je Seok Lee, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interactive White Cane for Visually Impaired People's Bus Usage." </a> <em>Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct.</em> ACM, 2015.
 
 
 <hr>
