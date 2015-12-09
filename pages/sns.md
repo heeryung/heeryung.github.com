@@ -52,7 +52,7 @@ Prototyping, social network analysis
         <strong> 1. Request Sent </strong>
             <div class = "row">
                 <div class = "medium-8 columns">
-                    <img src = "http://heeryung.github.io/images/sns_2-1.png">
+                    <img src = "http://heeryung.github.io/images/sns_1.png">
                     <p> A message is sent from an applicant node. </p>
                 </div>
             </div>
@@ -63,7 +63,7 @@ Prototyping, social network analysis
         <strong> 2-1. Request Failed to be Delivered </strong>
             <div class = "row">
                 <div class = "medium-8 columns">
-                    <img src = "http://heeryung.github.io/images/sns_2-3.png">
+                    <img src = "http://heeryung.github.io/images/sns_2-1.png">
                     <p> A message is rejected during hops by a middle node. </p>
                 </div>
             </div>
@@ -75,7 +75,7 @@ Prototyping, social network analysis
         <strong> 2-2. Request Delivered & Denied </strong>
             <div class = "row">
                 <div class = "medium-8 columns">
-                    <img src = "http://heeryung.github.io/images/sns_2-4.png">
+                    <img src = "http://heeryung.github.io/images/sns_2-2.png">
                     <p> A message is successfuly reached but rejected by an employer. </p>
                 </div>
             </div> 
@@ -86,7 +86,7 @@ Prototyping, social network analysis
         <strong> 2-3. Request Accepted </strong>
             <div class = "row">
                 <div class = "medium-8 columns">
-                    <img src = "http://heeryung.github.io/images/sns_2-2.png">
+                    <img src = "http://heeryung.github.io/images/sns_2-3.png">
                     <p> A message is successfully reached and accpeted. </p>
                 </div> 
             </div>
