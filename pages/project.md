@@ -5,14 +5,14 @@ title:  "Projects"
 teaser: 
 breadcrumb: true
 categories:
+- project
 permalink: /project/
 header: no
 ---
 
 <div id = "container">
     <div class="row">
-        <a href = "http://heeryung.github.io/project/kt/">
-        <h4>KIWEE</h4> </a>
+        <h4><a href = "http://heeryung.github.io/project/kt/">KIWEE</a></h4>
         <h6>Keywords : kinetic typography, emotion delivery</h6>
         <div class="medium-3 columns">
         <img src="http://heeryung.github.io/images/engine2.png">
@@ -25,8 +25,7 @@ header: no
 
     <!-- 2nd image -->
     <div class="row">
-        <a href = "http://heeryung.github.io/project/talkingcane/">
-        <h4>TalkingCane</h4> </a>
+        <h4><a href = "http://heeryung.github.io/project/talkingcane/">TalkingCane</a></h4>
         <h6>Keywords : accessibility, visually impaired; Assistive technology; Public data usage; Public transportation</h6>
         <div class="medium-3 columns">
         <img src="http://heeryung.github.io/images/mobilehci-302x182.png">
@@ -39,8 +38,7 @@ header: no
 
     <!-- Eyetracking image -->
     <div class="row">
-        <a href = "http://heeryung.github.io/project/eyetracking/">
-        <h4> Study on readability of Korean online media page </h4> </a>
+        <h4><a href = "http://heeryung.github.io/project/eyetracking/">Study on readability of Korean online media page</a></h4> 
         <h6> Keywords : eye-tracking, readability, online media, class project </h6>
         <div class="medium-3 columns">
         <img src="http://heeryung.github.io/images/eye_gaze_data.png">
@@ -53,8 +51,7 @@ header: no
 
     <!-- Trust-Sourcing -->
     <div class="row">
-        <a href = "http://heeryung.github.io/project/trust/">
-        <h4> Trust-sourcing </h4> </a>
+        <h4><a href = "http://heeryung.github.io/project/trust/">Trust-sourcing</a></h4>
         <h6> Keywords : trust, social computing, social network </h6>
         <br>
         <div class="medium-3 columns">
@@ -68,8 +65,8 @@ header: no
 
     <!-- Neolab -->
     <div class="row">
-        <a href = "http://heeryung.github.io/project/neolab/">
-        <h4> NEOLAB Pen Computing </h4> </a>
+        
+        <h4><a href = "http://heeryung.github.io/project/neolab/">NEOLAB Pen Computing</a></h4> 
         <h6> Keywords : pen computing, education </h6>
         <div class="medium-3 columns">
         <img src="http://heeryung.github.io/images/smartpen2.jpg">

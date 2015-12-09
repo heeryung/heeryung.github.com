@@ -42,7 +42,7 @@ Lee, Je Seok, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interacti
         <br> Figure 1. Journey map of TalkingCane
     </div>
     <div class="medium-4 columns">
-        <img src = "http://heeryung.githumb.com/images/talking_cane.jpg">
+        <img src = "http://heeryung.github.com/images/talking_cane.jpg">
         <br> Figure 2. Design of TalkingCane
     </div>
 </div>
