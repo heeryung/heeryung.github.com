@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline:  
-title:  "KT Project"
+title:  "Kinetic Typography Project (KIWEE)"
 teaser: 
 breadcrumb: true
 categories:
@@ -24,10 +24,18 @@ Text-processing, semi-structured interview, qualitative research, prototyping
 
 <h4> Publications </h4>
 <ul>
-    <li><a href="http://www.dbpia.co.kr/Article/NODE06228881">Evaluating System-Generated KT Effects for Sentence-Level Text Layout</a><br>
-Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>The Korean Institute of Information Scientists and Engineers 2014</em></li>
-    <li><a href="http://www.dbpia.co.kr/Article/NODE06139482">Sentence-level KT Generating System</a><br>Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>HCI Korea 2015</em></li>
+    <li><a href="http://www.dbpia.co.kr/Article/NODE06139482">Sentence-level KT Generating System</a><br>Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>HCI Korea 2015</em></li> <br>
     <li><a href="http://heeryung.github.com/assets/files/multimedia_kt.pdf">The Architecture of Automatic KT Effects Generating System</a><br>Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>Korea Multimedia Society 2014</em></li>
+        <ul>
+            <li> <strong>Translated abstract</strong>: Kinetic typography can be used to reveal emotion successfully in a mediated communication environment. Previous kinetic typography research limits animated effects to word-for-word modules. To support various text-based communication there is a need for a sentence based system. Therefore, this study suggests a new algorithm and system where an animated effect for kinetic typography is created for sentences. </li>
+        </ul>
+    </li>
+    <li><a href="http://www.dbpia.co.kr/Article/NODE06228881">Evaluating System-Generated KT Effects for Sentence-Level Text Layout</a><br>
+    Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong><br><em>The Korean Institute of Information Scientists and Engineers 2014</em> <br>
+        <ul>
+            <li> <strong>Translated abstract</strong>: Kinetic typography effectively allows texts, which lack non-verbal evidence, to show emotion through movement when used in communication. Previous researches focused on word-for-word modules, whereas this study focuses on the capability and usefulness of sentences. Specifically, for the study an automated algorithm was created where sentences are given animated effects with an appropriate layout. Tests were taken using samples created with the prototype. Results confirmed that sentence based kinetic typography is appropriate in conveying emotion. </li>
+        </ul>
+    </li>
 </ul>
 
 <h4> People </h4>
