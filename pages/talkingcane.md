@@ -29,9 +29,9 @@ Je Seok Lee, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interactiv
 
 <h4> Research Motivation </h4>
 <ul>
-    <li> Most of transit applications do not provide interfaces for the visually impaired, which makes using those applications on the road risky to the visually impaired.
+    <li> Most of transit applications do not provide interfaces for the visually impaired, which makes those applications rarely, risky for the visually impaired, on the road.
     </li>
-<li> Transit applications often do not support communication between visually impaired users and the real surrounding environment.
+<li> Transit applications hardly support communication between visually impaired users and the actual surrounding environment.
     </li> 
 </ul>
 
@@ -47,11 +47,11 @@ Je Seok Lee, Heeryung Choi, and Joonhwan Lee. "TalkingCane: Designing Interactiv
     </div>
 </div>
 <ul>
-    <li> A white cane communicating with the surrounding environment can be considered a solution.
+    <li> A solution for the white cane communicating with the surrounding environment can be considered a solution.
     </li>
-    <li> Communcation with impending surroundings will be acheived through reading RFID chips in the braille road blocks. RFID chip reader at the bottom of the white cane reads the information and tells users the exact information on the location of target place including bus stops. 
+    <li> Communcation with impending surroundings will be acheived through reading RFID chips on braille road blocks. The RFID chip reader at the bottom of the white cane reads information and tells users the exact information about the environment including bus stops. 
     </li>
-    <li> TalkingCane will deliver the direction to users based on the GPS data, through vibraion. 
+    <li> TalkingCane will deliver directions to users based on the GPS data, through vibraion. 
     </li>
 </ul>
 

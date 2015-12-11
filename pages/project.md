@@ -18,7 +18,7 @@ header: no
         <img src="http://heeryung.github.io/images/engine2.png">
         </div>
         <div class="medium-9 columns">
-            <p> KIWEE(Kinetic typography Instant messenger With Emotional Expression) allows users to automatically create kinetic typography effect, encouraging deliver emotions through text. </p>
+            <p> KIWEE(Kinetic typography Instant messenger With Emotional Expression) allows users to automatically create kinetic typography effects, encouraging users to deliver emotions effecively through text. </p>
         </div>
     </div>
 
@@ -31,7 +31,7 @@ header: no
         <img src="http://heeryung.github.io/images/mobilehci-302x182.png">
         </div>
         <div class="medium-9 columns">
-            <p> A white cane was redesigned into <strong>TalkingCane</strong>, an interactive instrument for communication between visually impaired people and the world. The research goal of this project is to facilitate bus usage by visually impaired and hence increase their ability to exercise their essential right of accessibility in their daily lives. </p>
+            <p> A white cane was redesigned into the <strong>TalkingCane</strong>, an interactive instrument for visually impaired people to communicate with the world. The research goal is to facilitate bus usage by visually impaired and increase their ability to exercise their essential right of accessibility in their daily lives. </p>
         </div>
     </div>
 
@@ -44,7 +44,7 @@ header: no
         <img src="http://heeryung.github.io/images/eye_gaze_data.png">
         </div>
         <div class="medium-9 columns">
-        <p> Using eyetracker, we explored eye gaze of people reading online news. An aim of the work is to study people's reading habit on reading online news website in South Korea which still seems to be out-dated or under-developed in terms of UX design  </p>
+        <p> Aim of the work is to study people's reading habit when reading online news websites in South Korea, which still seems to be out-dated and under-developed in terms of UX design. Using an eyetracker, we explored the eye gaze of people when reading news online. </p>
         </div>
     </div>
 
@@ -58,7 +58,7 @@ header: no
         <img src="http://heeryung.github.io/images/sns_2-2.png">
         </div>
         <div class="medium-9 columns">
-        <p> This work focuses on how to utilize human resources in social network including weak tie and strong tie. We suggest a recommendation model based on the idea that the person whom my reliable person relies on is reliable. </p>
+        <p> This work focuses on how human resources in social network, including weak tie and strong tie, are utilized. We suggest a model based on the idea that a person whom my reliable person relies on is also reliable. Based on trust as a feature, a new type of a social network is built. </p>
         </div>
     </div>
         
@@ -72,7 +72,7 @@ header: no
         <img src="http://heeryung.github.io/images/smartpen2.jpg">
         </div>
         <div class="medium-9 columns">
-        <p> An aim of this work is to expand the usage of N2, a smart pen of <a href = "http://www.neosmartpen.com/en">NEOLAB</a>. </p>
+        <p> An aim of this work is to expand the usage of N2, a smart pen from <a href = "http://www.neosmartpen.com/en">NEOLAB</a>. </p>
         </div>
     </div>
 </div>

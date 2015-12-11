@@ -13,7 +13,7 @@ header: no
 <iframe width="420" height="315" src="https://www.youtube.com/embed/kQlr-k_XtuQ" frameborder="0" style = "center" allowfullscreen></iframe>
 
 <h4> Summary </h4>
-In this research, we propose a kinetic typography (KT) layout engine, which generates sentence-level KT text to convey emotions in text-based communication. KIWEE(KT Instant messenger With Emotional Expression) allows users to automatically create KT effect, encouraging deliver emotions through text. KT(KT) enables users to better convey emotions in text-based communication. In this project, we propose a sentence-level KT system that generates and assigns effects to the text input. We believe that our system improves the utilization of KT for broader applications. The system consists of 5 steps, and we focused on creating an algorithm for automated processing and layout of text, as in a sentence.
+In this research, we propose a kinetic typography (KT) layout engine. This engine generates a sentence-level KT effect which conveys emotions in text-based communication. KIWEE(KT Instant messenger With Emotional Expression) is an instant messenger which enhances the use of KT. We propose a sentence-level KT system that generates and assigns effects according to the text input. Our system improves the utilization of KT, allowing it to be used for broader applications. The system consists of 5 steps and we focused on creating an algorithm to automate the processing of the text layout when the input was a sentence.
 
 
 <h4> Keywords </h4>
@@ -93,12 +93,12 @@ This work was supported by the IT R&D program of MKE/KEIT, (10041794, Developmen
 </div>
 
 <ul>
-    <li> Emotions were coded on the moods (positive/negative) - energy (arousal) dimension. </li>
-    <li> <a href="http://dl.acm.org/citation.cfm?id=571997">Preliminary research</a> findings indicate how mood and energy level can be represented through KT moods. </li>
+    <li> Emotions were coded based on the moods (positive/negative) - energy (arousal) dimension. </li>
+    <li> <a href="http://dl.acm.org/citation.cfm?id=571997">Preliminary research</a> findings indicate how mood and energy level can be represented through KT. </li>
     <li> <strong>Figure 1</strong> reveals the architecture of the proposed system, a KT layout engine, which generates sentence-level KT text to convey emotions in text-based communication.
     <li> Using the KT effect library we had built, the prototype for the KT system was established using JavaScript toolkits <strong>(figure 2)</strong>. </li>    
     <li> An experiment was carried out to see how well KT effects created by the designed algorithm represent feelings. </li> 
-    <li> The result shows that the proposed KT system creates, assigns, and displays the effects in a way that conveys emotion through a sentence- level text: both of the two dimensions of emotion were effectively delivered, i.e. mood (positive-negative) and energy level (high-low). </li>
+    <li> Result shows that the proposed KT system creates, assigns, and displays emotion through sentence-level texts: both dimensions of emotion were effectively delivered, i.e. mood (positive-negative) and energy level (high-low). </li>
     <li> Verifying the validity of the proposed system, an automated KT generator for a real-time messenger developed <strong>(figure 3)</strong>.
 </ul>
 
