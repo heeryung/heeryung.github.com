@@ -46,7 +46,7 @@ Je Seok Lee, <strong>Heeryung Choi</strong>, and Joonhwan Lee. <a href = "http:/
     </div>
 </div>
 <ul>
-    <li> A solution for the white cane communicating with the surrounding environment can be considered a solution.
+    <li> The white cane communicating with the surrounding environment can be considered a solution.
     </li>
     <li> Communcation with impending surroundings will be acheived through reading RFID chips on braille road blocks. The RFID chip reader at the bottom of the white cane reads information and tells users the exact information about the environment including bus stops. 
     </li>
