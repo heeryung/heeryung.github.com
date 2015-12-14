@@ -23,7 +23,7 @@ header: no
     
 
 <h4> Keywords </h4>
-Eye-tracking, readability, online media, class project
+Eye-tracking, readability, online media, visualization, class project
 
 <h4> Research Methods </h4>
 Eye-tracking
