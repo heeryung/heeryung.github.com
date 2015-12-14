@@ -18,7 +18,7 @@ header: no
         <img src="http://heeryung.github.io/images/engine2.png">
         </div>
         <div class="medium-9 columns">
-            <p> KIWEE(Kinetic typography Instant messenger With Emotional Expression) allows users to automatically create kinetic typography effects, encouraging users to deliver emotions effecively through text. </p>
+            <p> <strong>KIWEE</strong>(Kinetic typography Instant messenger With Emotional Expression) allows users to automatically create kinetic typography effects, encouraging users to deliver emotions effecively through text. </p>
         </div>
     </div>
 
