@@ -13,3 +13,7 @@
 - title: "CV"
   url: "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf"
   side: left 
+
+- title: "Contact"
+  url: "mailto:heeryung.c@gmail.com"
+  side: left 
