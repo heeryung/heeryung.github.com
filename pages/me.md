@@ -43,19 +43,15 @@ B.A. in English Education (Summa Cum Laude)</div>
     </div>
 
     
-    <h4> News </h4>
-    <div class = "row">
-        <div class="medium-4 columns"> Sep. 2016 </div>
-        <div class="medium-8 columns"> My PhD in Information will begin at University of Michigan!.</div>
-    </div>
-
-    <div class = "row">
-        <div class="medium-4 columns"> Oct. 2015 </div>
-        <div class="medium-8 columns"> The Samsung Scholarship is granted for the future PhD research.</div>
-    </div>
-    <div class = "row">
-        <div class="medium-4 columns"> Apr. 2015 </div>
-        <div class="medium-8 columns"> A MobileHCI 2015 <a href="http://dl.acm.org/citation.cfm?id=2793686">poster</a> is accepted. </div>
-    </div>
+<!--    <h4> News </h4>-->
+<!--    <div class = "row">-->
+<!--    <div class="medium-4 columns"> Sep. 2016 </div>-->
+<!--        <div class="medium-8 columns"> My PhD in Information will begin at University of Michigan!.</div>-->
+<!--    </div>-->
+<!---->
+<!--    <div class = "row">-->
+<!--        <div class="medium-4 columns"> Oct. 2015 </div>-->
+<!--        <div class="medium-8 columns"> The Samsung Scholarship is granted for the PhD research.</div>-->
+<!--    </div>-->
 </div>
 
