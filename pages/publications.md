@@ -8,6 +8,9 @@ permalink: "/publications/"
 ---
 <h2>Posters</h2>
 <ul>
+<li>Social comparison theory as applied to MOOC student writing: constructs for opinion and ability<br><strong>Heeryung Choi</strong>, Nia Dowell, Christopher Brooks. <em>ICLS 2018</em></li><br>
+<li><a href="http://educationaldatamining.org/EDM2017/proc_files/papers/paper_132.pdf">Social work in the classroom? A tool to evaluate topical relevance in student writing</a><br><strong>Heeryung Choi</strong>, Zijian Wang, Christopher Brooks, Kevyn Collins-Thompson, Beth Glover Reed, Dale Fitch. <em>EDM 2017</em></li><br> 
+<li><a href="http://dl.acm.org/citation.cfm?id=3029477">What does student writing tell us about their thinking on social justice?</a><br><strong>Heeryung Choi</strong>, Christopher Brooks, Kevyn Collins-Thompson. <em>LAK 2017</em></li><br>
 <li><a href="http://dl.acm.org/citation.cfm?doid=2786567.2793686">TalkingCane: Designing Interactive White Cane for Visually Impaired People's Bus Usage</a><br>Je Seok Lee, <strong>Heeryung Choi</strong>, Joonhwan Lee. <em>MobileHCI 2015</em>.</li><br>
     <li><a href="http://www.dbpia.co.kr/Article/NODE06228881">Evaluating System-Generated Kinetic Typography Effects for Sentence-Level Text Layout</a><br>
 Joonhwan Lee, Donghwan Kim, Inho Won, Jieun Wee, Yaena Jang, Sooyeon Jang, <strong>Heeryung Choi</strong>. <em>The Korean Institute of Information Scientists and Engineers 2014</em> 
