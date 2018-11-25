@@ -13,7 +13,7 @@ permalink: "/index.html"
     <div class = "row">
         <div class = "medium-4 columns">
             <img src = "http://heeryung.github.io/images/memyself.png" width="200" height="200" alt="me"/><br>
-            <a href = "mailto:heeryung@umich.com">
+            <a href = "mailto:heeryung@umich.edu">
             <img src = "http://heeryung.github.io/images/mail.jpg" width="25" height="25" alt="mail"/> </a>
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
@@ -39,8 +39,9 @@ permalink: "/index.html"
     <div class="row">
         <div class="medium-4 columns">2009 - 2014</div>
         <div class="medium-8 columns"><strong>Seoul National University </strong> <br>
-B.A. in English Education (Summa Cum Laude)</div>
+        B.A. in English Education (Summa Cum Laude)</div>
     </div>
+</div>
 
     
 <!--    <h4> News </h4>-->
@@ -58,5 +59,5 @@ B.A. in English Education (Summa Cum Laude)</div>
 <!--        <div class="medium-4 columns"> Oct. 2015 </div>-->
 <!--        <div class="medium-8 columns"> The Samsung Scholarship is granted for the PhD research.</div>-->
 <!--    </div>-->
-</div>
+
 
