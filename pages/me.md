@@ -13,12 +13,12 @@ permalink: "/index.html"
     <div class = "row">
         <div class = "medium-4 columns">
             <img src = "http://heeryung.github.io/images/memyself.png" width="200" height="200" alt="me"/><br>
-            <a href = "mailto:heeryung.c@gmail.com">
+            <a href = "mailto:heeryung@umich.com">
             <img src = "http://heeryung.github.io/images/mail.jpg" width="25" height="25" alt="mail"/> </a>
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-            I am a PhD student in Information Science at University of Michigan. My main research interests are in networked properties for behavioral change, and learning science. I received my B.A. in English Education in Seoul National University. I have developed my research interest through various experiences including teaching practicum, volunteering in India with Hyundai Motor’s group and FSL India.
+            I am a PhD student in Information Science at University of Michigan. My main research interests are supporting students' self-regulated learning through learning analytics and learning science.
         </div>
     </div>
     
@@ -45,8 +45,13 @@ B.A. in English Education (Summa Cum Laude)</div>
     
 <!--    <h4> News </h4>-->
 <!--    <div class = "row">-->
+<!--    <div class="medium-4 columns"> Nov. 2018 </div>-->
+<!--        <div class="medium-8 columns"> One LAK19 full paper and two LAK19 short papers got acceped! </div>-->
+<!--    </div>-->
+
+<!--    <div class = "row">-->
 <!--    <div class="medium-4 columns"> Sep. 2016 </div>-->
-<!--        <div class="medium-8 columns"> My PhD in Information will begin at University of Michigan!.</div>-->
+<!--        <div class="medium-8 columns"> My PhD in Information will begin at University of Michigan!</div>-->
 <!--    </div>-->
 <!---->
 <!--    <div class = "row">-->

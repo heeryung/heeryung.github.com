@@ -6,6 +6,14 @@ teaser:
 header : no
 permalink: "/publications/"
 ---
+<h2>Conference Full / Short Papers</h2>
+<ul>
+<li>Social Comparison in MOOCs: Perceived SES, Opinion, and Message Formality <br><strong>Heeryung Choi</strong>, Nia Dowell, Christopher Brooks, Stephanie Teasley. <em>LAK 2019</em></li><br>
+<li>Exploring Learner Engagement Patterns in Teach-Outs: Using Topic, Sentiment and On- topicness to Reflect on Pedagogy<br>Wenfei Yan, Nia Dowell, Caitlin Holman, Steve Welsh, <strong>Heeryung Choi</strong>, Christopher Brooks. <em>LAK 2019</em></li><br>
+<li>Modeling Gender in Intra and Interpersonal Dynamics during Online Learning Collaborative Interactions<br>Yiwen Lin, Nia Dowell, Andrew Godfrey, <strong>Heeryung Choi</strong>, Christopher Brooks. <em>LAK 2019</em></li><br>
+</ul>
+
+
 <h2>Posters</h2>
 <ul>
 <li>Social comparison theory as applied to MOOC student writing: constructs for opinion and ability<br><strong>Heeryung Choi</strong>, Nia Dowell, Christopher Brooks. <em>ICLS 2018</em></li><br>
