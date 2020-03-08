@@ -2,10 +2,6 @@
   url: "/index.html"
   side: left
 
-- title: Projects
-  url: "/project/"
-  side: left
-
 - title: "Publications"
   url: "/publications/"
   side: left

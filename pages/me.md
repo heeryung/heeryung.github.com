@@ -18,7 +18,7 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-            I am a PhD student in Information Science at University of Michigan. My main research interests are supporting students' self-regulated learning through learning analytics and learning science.
+        I am a PhD student in Information Science at University of Michigan. My main research interest is improving learners' data science education experience through educational data analysis based on various theories including self-regulated learning. Also, when I am not doing research, I occasionally do a goofy dance in my office.
         </div>
     </div>
     
