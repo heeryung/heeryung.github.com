@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline:
-title: 
-teaser: 
+title:
+teaser:
 header: no
 permalink: "/index.html"
 ---
@@ -18,16 +18,23 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a PhD student in Information Science at University of Michigan. My main research interest is improving learners' data science education experience through educational data analysis based on various theories including self-regulated learning. When I am not doing research, I occasionally do goofy dances in my office.
+        I am a postdoctoral researcher at MIT. My main research interest is improving learners' online education experience through educational data analysis based on various theories including self-regulated learning. When I am not doing research, I occasionally do goofy dances in my office.
         </div>
     </div>
-    
-    
+
+
     <h4> Affiliations </h4>
     <div class="row">
-        <div class="medium-4 columns">2016 - Present</div>
+        <div class="medium-4 columns">2022 - Present</div>
+        <div class="medium-8 columns"><strong>Massachusetts Institute of Technology</strong><br>
+        Postdoctoral Researcher</div>
+    </div>
+
+
+    <div class="row">
+        <div class="medium-4 columns">2016 - 2022</div>
         <div class="medium-8 columns"><strong>University of Michigan</strong><br>
-        PhD in Information (Expected)</div>
+        PhD in Information</div>
     </div>
 
 
@@ -43,7 +50,7 @@ permalink: "/index.html"
     </div>
 </div>
 
-    
+
 <!--    <h4> News </h4>-->
 <!--    <div class = "row">-->
 <!--    <div class="medium-4 columns"> Nov. 2018 </div>-->
@@ -59,5 +66,3 @@ permalink: "/index.html"
 <!--        <div class="medium-4 columns"> Oct. 2015 </div>-->
 <!--        <div class="medium-8 columns"> The Samsung Scholarship is granted for the PhD research.</div>-->
 <!--    </div>-->
-
-
