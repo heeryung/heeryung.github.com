@@ -13,7 +13,7 @@ permalink: "/index.html"
     <div class = "row">
         <div class = "medium-4 columns">
             <img src = "http://heeryung.github.io/images/memyself.png" width="200" height="200" alt="me"/><br>
-            <a href = "mailto:heeryung@umich.edu">
+            <a href = "mailto:heeryung@mit.edu">
             <img src = "http://heeryung.github.io/images/mail.jpg" width="25" height="25" alt="mail"/> </a>
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
