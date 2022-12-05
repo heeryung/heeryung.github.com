@@ -18,8 +18,25 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a postdoctoral researcher at MIT. My main research interest is improving learners' online education experience through educational data analysis based on various theories including self-regulated learning. When I am not doing research, I occasionally do goofy dances in my office.
+        I am a postdoctoral researcher at MIT. My main research interest is improving learners' online education experience through educational data analysis mainly based on self-regulated learning. When I am not doing research, I occasionally do goofy dances in my office.
         </div>
+    </div>
+
+
+    <h4> News </h4>
+    <div class = "row">
+    <div class="medium-4 columns"> Dec. 2022 </div>
+        <div class="medium-8 columns"> LAK'23 paper <b>'Logs or Self-Reports? Misalignment Between Behavioral Trace data and Surveys when Modeling Learner Achievement Goal Orientation'</b> got accepted! </div>
+    </div>
+
+    <div class = "row">
+    <div class="medium-4 columns"> May. 2022 </div>
+        <div class="medium-8 columns"> I started working at Massachusetts Institute of Technology, Center for Transportation and Logsitics as a digial learning postdoctoral associate. </div>
+    </div>
+
+    <div class = "row">
+        <div class="medium-4 columns"> Ap3. 2022 </div>
+        <div class="medium-8 columns"> I received my PhD in Information at University of Michgian, School of Information. </div>
     </div>
 
 
@@ -48,21 +65,7 @@ permalink: "/index.html"
         <div class="medium-8 columns"><strong>Seoul National University </strong> <br>
         B.A. in English Education (Summa Cum Laude)</div>
     </div>
+
+
+
 </div>
-
-
-<!--    <h4> News </h4>-->
-<!--    <div class = "row">-->
-<!--    <div class="medium-4 columns"> Nov. 2018 </div>-->
-<!--        <div class="medium-8 columns"> One LAK19 full paper and two LAK19 short papers got acceped! </div>-->
-<!--    </div>-->
-
-<!--    <div class = "row">-->
-<!--    <div class="medium-4 columns"> Sep. 2016 </div>-->
-<!--        <div class="medium-8 columns"> My PhD in Information will begin at University of Michigan!</div>-->
-<!--    </div>-->
-<!---->
-<!--    <div class = "row">-->
-<!--        <div class="medium-4 columns"> Oct. 2015 </div>-->
-<!--        <div class="medium-8 columns"> The Samsung Scholarship is granted for the PhD research.</div>-->
-<!--    </div>-->
