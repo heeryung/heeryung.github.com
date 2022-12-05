@@ -35,7 +35,7 @@ permalink: "/index.html"
     </div>
 
     <div class = "row">
-        <div class="medium-4 columns"> Ap3. 2022 </div>
+        <div class="medium-4 columns"> Apr. 2022 </div>
         <div class="medium-8 columns"> I received my PhD in Information at University of Michgian, School of Information. </div>
     </div>
 
