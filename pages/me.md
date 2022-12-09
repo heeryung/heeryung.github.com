@@ -39,12 +39,17 @@ permalink: "/index.html"
         <div class="medium-8 columns"> I received my PhD in Information at University of Michgian, School of Information. </div>
     </div>
 
+    <div class = "row">
+        <div class="medium-4 columns"> Oct. 2021 </div>
+        <div class="medium-8 columns"> I am excited to give a reserach talk at MIT! </div>
+    </div>
+
 
     <h4> Affiliations </h4>
     <div class="row">
         <div class="medium-4 columns">2022 - Present</div>
         <div class="medium-8 columns"><strong>Massachusetts Institute of Technology</strong><br>
-        Postdoctoral Researcher</div>
+        Digital learning postdoc associate</div>
     </div>
 
 
