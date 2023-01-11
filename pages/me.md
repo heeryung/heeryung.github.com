@@ -27,7 +27,7 @@ permalink: "/index.html"
 
     <div class = "row">
     <div class="medium-4 columns"> Jan. 2023 </div>
-        <div class="medium-8 columns"> I am excited to give a talk 'Meta-LAD: A Dashboard Supporting SRL' to Open Learning, MITx Digital Learning Lab!</div>
+        <div class="medium-8 columns"> I am excited to give a talk <b>'Meta-LAD: A Dashboard Supporting SRL'</b> to Open Learning, MITx Digital Learning Lab!</div>
     </div>
 
     <div class = "row">
@@ -37,8 +37,8 @@ permalink: "/index.html"
 
 
     <div class = "row">
-    <div class="medium-4 columns"> Jul. 2022 </div>
-        <div class="medium-8 columns"> I won the MITili grant for the Meta-LAD project I proposed!</div>
+    <div class="medium-4 columns"> Jun. 2022 </div>
+        <div class="medium-8 columns"> I won <b>the MITili grant</b> for the Meta-LAD project I proposed!</div>
     </div>
 
     <div class = "row">
