@@ -18,15 +18,27 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a postdoctoral researcher at MIT. My main research interest is improving learners' online education experience through educational data analysis mainly based on self-regulated learning. When I am not doing research, I occasionally do goofy dances in my office.
+        I am a postdoctoral associate researcher at MIT. My main research interest is improving learners' online education experience through educational data analysis mainly based on self-regulated learning. When I am not doing research, I occasionally do goofy dances in my office.
         </div>
     </div>
 
 
     <h4> News </h4>
+
+    <div class = "row">
+    <div class="medium-4 columns"> Jan. 2023 </div>
+        <div class="medium-8 columns"> I am excited to give a talk 'Meta-LAD: A Dashboard Supporting SRL' to Open Learning, MITx Digital Learning Lab!</div>
+    </div>
+
     <div class = "row">
     <div class="medium-4 columns"> Dec. 2022 </div>
         <div class="medium-8 columns"> LAK'23 paper <b>'Logs or Self-Reports? Misalignment Between Behavioral Trace data and Surveys when Modeling Learner Achievement Goal Orientation'</b> got accepted! </div>
+    </div>
+
+
+    <div class = "row">
+    <div class="medium-4 columns"> Jul. 2022 </div>
+        <div class="medium-8 columns"> I won the MITili grant for the Meta-LAD project I proposed!</div>
     </div>
 
     <div class = "row">
@@ -39,11 +51,11 @@ permalink: "/index.html"
         <div class="medium-8 columns"> I received my PhD in Information at University of Michgian, School of Information. </div>
     </div>
 
-    <div class = "row">
+<!--     <div class = "row">
         <div class="medium-4 columns"> Oct. 2021 </div>
         <div class="medium-8 columns"> I am excited to give a reserach talk at MIT! </div>
     </div>
-
+ -->
 
     <h4> Affiliations </h4>
     <div class="row">
