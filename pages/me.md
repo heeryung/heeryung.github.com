@@ -25,6 +25,27 @@ permalink: "/index.html"
 
     <h4> News </h4>
 
+<!---->
+<!--    <div class = "row">-->
+<!--    <div class="medium-4 columns"> Mar. 2023 </div>-->
+<!--        <div class="medium-8 columns"> I am going to give a talk at the Syracuse University, DD&E Department on March 29th!-->
+<!--        </div>-->
+<!--    </div>-->
+<!---->
+<!---->
+<!--    <div class = "row">-->
+<!--    <div class="medium-4 columns"> Mar. 2023 </div>-->
+<!--        <div class="medium-8 columns"> If you are going to be at LAK'23, come to my talk "Logs or Self-Reports? Misalignment Between Behavioral Trace data and Surveys when Modeling Learner Achievement Goal Orientation" on March 15th 15:00 (CT)!-->
+<!--        </div>-->
+<!--    </div>-->
+
+    <div class = "row">
+    <div class="medium-4 columns"> Feb. 2023 </div>
+        <div class="medium-8 columns"> My paper 'The benefit of reflection prompts for encouraging learning with hints in an online programming course' got accepted to The Internet and Higher Education journal! I cannot say enough how grateful I am to my co-authors!
+        </div>
+    </div>
+
+
     <div class = "row">
     <div class="medium-4 columns"> Jan. 2023 </div>
         <div class="medium-8 columns"> I am excited to give a talk <b>'Meta-LAD: A Dashboard Supporting SRL'</b> to Open Learning, MITx Digital Learning Lab!</div>
