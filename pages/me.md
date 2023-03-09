@@ -33,15 +33,15 @@ permalink: "/index.html"
 <!--    </div>-->
 <!---->
 <!---->
-<!--    <div class = "row">-->
-<!--    <div class="medium-4 columns"> Mar. 2023 </div>-->
-<!--        <div class="medium-8 columns"> If you are going to be at LAK'23, come to my talk "Logs or Self-Reports? Misalignment Between Behavioral Trace data and Surveys when Modeling Learner Achievement Goal Orientation" on March 15th 15:00 (CT)!-->
-<!--        </div>-->
-<!--    </div>-->
+    <div class = "row">
+    <div class="medium-4 columns"> Mar. 2023 </div>
+        <div class="medium-8 columns"> If you are going to be at LAK'23, come to my talk "Logs or Self-Reports? Misalignment Between Behavioral Trace data and Surveys when Modeling Learner Achievement Goal Orientation" on March 15th 15:00 (CT)!
+        </div>
+    </div>
 
     <div class = "row">
     <div class="medium-4 columns"> Feb. 2023 </div>
-        <div class="medium-8 columns"> My paper 'The benefit of reflection prompts for encouraging learning with hints in an online programming course' got accepted to The Internet and Higher Education journal! I cannot say enough how grateful I am to my co-authors!
+        <div class="medium-8 columns"> My paper <b>'The benefit of reflection prompts for encouraging learning with hints in an online programming course'</b> got accepted to The Internet and Higher Education journal! I cannot say enough how grateful I am to my co-authors!
         </div>
     </div>
 
@@ -53,7 +53,7 @@ permalink: "/index.html"
 
     <div class = "row">
     <div class="medium-4 columns"> Dec. 2022 </div>
-        <div class="medium-8 columns"> LAK'23 paper <b>'Logs or Self-Reports? Misalignment Between Behavioral Trace data and Surveys when Modeling Learner Achievement Goal Orientation'</b> got accepted! </div>
+        <div class="medium-8 columns"> LAK'23 paper <b>'Logs or Self-Reports? Misalignment Between Behavioral Trace Data and Surveys When Modeling Learner Achievement Goal Orientation'</b> got accepted! </div>
     </div>
 
 
