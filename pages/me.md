@@ -18,7 +18,7 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a postdoctoral associate researcher at MIT. My main research interest is improving learners' online education experience through educational data analysis mainly based on self-regulated learning. When I am not doing research, I occasionally do goofy dances in my office.
+        I am a postdoctoral associate researcher at MIT. My main research interest is improving learners' online education experience through educational data analysis mainly based on self-regulated learning theory. When I am not doing research, I occasionally do goofy dances in my office.
         </div>
     </div>
 
@@ -35,7 +35,7 @@ permalink: "/index.html"
 <!---->
     <div class = "row">
     <div class="medium-4 columns"> Mar. 2023 </div>
-        <div class="medium-8 columns"> If you are going to be at LAK'23, come to my talk "Logs or Self-Reports? Misalignment Between Behavioral Trace data and Surveys when Modeling Learner Achievement Goal Orientation" on March 15th 15:00 (CT)!
+        <div class="medium-8 columns"> I will give <b>a talk on my research interest</b> to IDD&E at Syracuse University, School of Education!
         </div>
     </div>
 
