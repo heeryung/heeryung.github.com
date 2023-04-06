@@ -35,31 +35,31 @@ permalink: "/index.html"
 <!---->
     <div class = "row">
     <div class="medium-4 columns"> Mar. 2023 </div>
-        <div class="medium-8 columns"> I will give <b>a talk on my research interest</b> to IDD&E at Syracuse University, School of Education!
+        <div class="medium-8 columns"> I will give <b>a talk on my research</b> to Department of Instructional Design, Development and Evaluation at Syracuse University, School of Education.
         </div>
     </div>
 
     <div class = "row">
     <div class="medium-4 columns"> Feb. 2023 </div>
-        <div class="medium-8 columns"> My paper <b>'The benefit of reflection prompts for encouraging learning with hints in an online programming course'</b> got accepted to The Internet and Higher Education journal! I cannot say enough how grateful I am to my co-authors!
+        <div class="medium-8 columns"> My paper <b>'The benefit of reflection prompts for encouraging learning with hints in an online programming course'</b> got accepted to The Internet and Higher Education journal.
         </div>
     </div>
 
 
     <div class = "row">
     <div class="medium-4 columns"> Jan. 2023 </div>
-        <div class="medium-8 columns"> I am excited to give a talk <b>'Meta-LAD: A Dashboard Supporting SRL'</b> to Open Learning, MITx Digital Learning Lab!</div>
+        <div class="medium-8 columns"> I am excited to give a talk <b>'Meta-LAD: A Dashboard Supporting SRL'</b> to Open Learning, MITx Digital Learning Lab.</div>
     </div>
 
     <div class = "row">
     <div class="medium-4 columns"> Dec. 2022 </div>
-        <div class="medium-8 columns"> LAK'23 paper <b>'Logs or Self-Reports? Misalignment Between Behavioral Trace Data and Surveys When Modeling Learner Achievement Goal Orientation'</b> got accepted! </div>
+        <div class="medium-8 columns"> LAK'23 paper <b>'Logs or Self-Reports? Misalignment Between Behavioral Trace Data and Surveys When Modeling Learner Achievement Goal Orientation'</b> got accepted. </div>
     </div>
 
 
     <div class = "row">
     <div class="medium-4 columns"> Jun. 2022 </div>
-        <div class="medium-8 columns"> I won <b>the MITili grant</b> for the Meta-LAD project I proposed!</div>
+        <div class="medium-8 columns"> I won <b>the MITili grant</b> for the Meta-LAD project I proposed.</div>
     </div>
 
     <div class = "row">
