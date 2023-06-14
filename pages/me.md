@@ -25,14 +25,14 @@ permalink: "/index.html"
 
     <h4> News </h4>
 
-<!---->
-<!--    <div class = "row">-->
-<!--    <div class="medium-4 columns"> Mar. 2023 </div>-->
-<!--        <div class="medium-8 columns"> I am going to give a talk at the Syracuse University, DD&E Department on March 29th!-->
-<!--        </div>-->
-<!--    </div>-->
-<!---->
-<!---->
+
+    <div class = "row">
+    <div class="medium-4 columns"> Jun. 2023 </div>
+        <div class="medium-8 columns"> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-30992-2_5">My book chapter</a></b> co-authored with Prof. Chris Brooks and Prof. Phil Winne has been published!
+        </div>
+    </div>
+
+
     <div class = "row">
     <div class="medium-4 columns"> Mar. 2023 </div>
         <div class="medium-8 columns"> I will give <b>a talk on my research</b> to Department of Instructional Design, Development and Evaluation at Syracuse University, School of Education.
