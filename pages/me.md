@@ -25,10 +25,15 @@ permalink: "/index.html"
 
     <h4> News </h4>
 
+    <div class = "row">
+    <div class="medium-4 columns"> Jun. 2023 </div>
+        <div class="medium-8 columns"> <b>My LwMOOCs paper 'Meta-LAD: Developing a Learning Analytics Dashboard With Theoretically Grounded and Context-Specific Approaches'</b> got accepted!</div>
+    </div>
+
 
     <div class = "row">
     <div class="medium-4 columns"> Jun. 2023 </div>
-        <div class="medium-8 columns"> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-30992-2_5">My book chapter</a></b> co-authored with Prof. Chris Brooks and Prof. Phil Winne has been published!
+        <div class="medium-8 columns"> <b><a href="http://heeryung.github.io/assets/files/heeryung-bookchapter-unobtrusive-choi-winne-brooks.pdf">My book chapter 'Reconfiguring Measures of Motivational Constructs Using State-Revealing Trace Data'</a></b> co-authored with Prof. Chris Brooks and Prof. Phil Winne has been published!
         </div>
     </div>
 
@@ -41,7 +46,7 @@ permalink: "/index.html"
 
     <div class = "row">
     <div class="medium-4 columns"> Feb. 2023 </div>
-        <div class="medium-8 columns"> My paper <b>'The benefit of reflection prompts for encouraging learning with hints in an online programming course'</b> got accepted to The Internet and Higher Education journal.
+        <div class="medium-8 columns"> My paper <b><a href="http://heeryung.github.io/assets/files/heeryung-the-internet-and-higher-education-hint-jovanovic.pdf">'The benefit of reflection prompts for encouraging learning with hints in an online programming course'</a></b> got accepted to The Internet and Higher Education journal.
         </div>
     </div>
 
@@ -53,7 +58,7 @@ permalink: "/index.html"
 
     <div class = "row">
     <div class="medium-4 columns"> Dec. 2022 </div>
-        <div class="medium-8 columns"> LAK'23 paper <b>'Logs or Self-Reports? Misalignment Between Behavioral Trace Data and Surveys When Modeling Learner Achievement Goal Orientation'</b> got accepted. </div>
+        <div class="medium-8 columns"> LAK'23 paper <b><a href="http://heeryung.github.io/assets/files/heeryung-LAK23.pdf">'Logs or Self-Reports? Misalignment Between Behavioral Trace Data and Surveys When Modeling Learner Achievement Goal Orientation'</a></b> got accepted. </div>
     </div>
 
 
