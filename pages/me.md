@@ -24,6 +24,11 @@ permalink: "/index.html"
 
 
     <h4> News </h4>
+    <div class = "row">
+    <div class="medium-4 columns"> Aug. 2023 </div>
+        <div class="medium-8 columns"> I am thrilled to present <a href="https://ctl.mit.edu/events/wed-08022023-1100/getting-ready-future-upskilling-scm-professionals-through-online-learning">a talk titled "Upskilling SCM Professionals through Online Learning"</a> for the MIT CTL Supply Chain Exchange August Monthly Briefing!</div>
+    </div>
+
 
     <div class = "row">
     <div class="medium-4 columns"> Jun. 2023 </div>
@@ -64,7 +69,7 @@ permalink: "/index.html"
 
     <div class = "row">
     <div class="medium-4 columns"> Jun. 2022 </div>
-        <div class="medium-8 columns"> I won <b>the MITili grant</b> for the Meta-LAD project I proposed.</div>
+        <div class="medium-8 columns"> I won <b>the MITili grant</b> for the Meta-LAD project I proposed!</div>
     </div>
 
     <div class = "row">
