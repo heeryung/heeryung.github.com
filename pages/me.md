@@ -18,12 +18,19 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a postdoctoral associate researcher at MIT. My main research interest is improving learners' online education experience through educational data analysis mainly based on self-regulated learning theory. When I am not doing research, I occasionally do goofy dances in my office.
+        I am a postdoctoral associate researcher at MIT. My primary research focus lies in enhancing the learning experience through applying educational data science, primarily viewed through the lens of self-regulated learning theory. Outside of my research, I enjoy some K-pop while taking strolls and soaking in views here and there.
         </div>
     </div>
 
 
     <h4> News </h4>
+<!--    <div class = "row">-->
+<!--    <div class="medium-4 columns"> Sep. 2023 </div>-->
+<!--        <div class="medium-8 columns"> I've joined XXXX as a co-chair for the posters and demonstrations track!</div>-->
+<!--    </div>-->
+
+
+
     <div class = "row">
     <div class="medium-4 columns"> Aug. 2023 </div>
         <div class="medium-8 columns"> I am thrilled to present <a href="https://ctl.mit.edu/events/wed-08022023-1100/getting-ready-future-upskilling-scm-professionals-through-online-learning">a talk titled "Upskilling SCM Professionals through Online Learning"</a> for the MIT CTL Supply Chain Exchange August Monthly Briefing!</div>
