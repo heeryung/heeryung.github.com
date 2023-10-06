@@ -30,6 +30,11 @@ permalink: "/index.html"
 <!--    </div>-->
 
 
+    <div class = "row">
+    <div class="medium-4 columns"> Oct. 2023 </div>
+        <div class="medium-8 columns"> Our LWMOOCs'23 paper is <b>nominated as a best paper</b>! I appreciate so much to my co-authors! Stay tuned for <b>'Meta-LAD: Developing a Learning Analytics Dashboard With Theoretically Grounded and Context-Specific Approaches'</b> in the upcoming proceedings!</div>
+    </div>
+
 
     <div class = "row">
     <div class="medium-4 columns"> Aug. 2023 </div>
@@ -39,7 +44,7 @@ permalink: "/index.html"
 
     <div class = "row">
     <div class="medium-4 columns"> Jun. 2023 </div>
-        <div class="medium-8 columns"> <b>My LwMOOCs paper 'Meta-LAD: Developing a Learning Analytics Dashboard With Theoretically Grounded and Context-Specific Approaches'</b> got accepted!</div>
+        <div class="medium-8 columns"> <b>My LWMOOCs paper 'Meta-LAD: Developing a Learning Analytics Dashboard With Theoretically Grounded and Context-Specific Approaches'</b> got accepted!</div>
     </div>
 
 
