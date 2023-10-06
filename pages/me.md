@@ -18,7 +18,7 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a postdoctoral associate researcher at MIT. My primary research focus lies in enhancing the learning experience through applying educational data science, primarily viewed through the lens of self-regulated learning theory. Outside of my research, I enjoy some K-pop while taking strolls and soaking in views here and there.
+        I am a digital learning postdoctoral associate researcher at MIT. My primary research focus lies in enhancing the learning experience through applying educational data science, primarily viewed through the lens of self-regulated learning theory. Outside of my research, I enjoy some K-pop while taking strolls and soaking in views here and there.
         </div>
     </div>
 
@@ -32,7 +32,7 @@ permalink: "/index.html"
 
     <div class = "row">
     <div class="medium-4 columns"> Oct. 2023 </div>
-        <div class="medium-8 columns"> Our LWMOOCs'23 paper is <b>nominated as a best paper</b>! I appreciate so much to my co-authors! Stay tuned for <b>'Meta-LAD: Developing a Learning Analytics Dashboard With Theoretically Grounded and Context-Specific Approaches'</b> in the upcoming proceedings!</div>
+        <div class="medium-8 columns"> Our LWMOOCs'23 paper is <b>nominated for the Best Paper award</b>! I appreciate so much to my co-authors! Stay tuned for <b>'Meta-LAD: Developing a Learning Analytics Dashboard With Theoretically Grounded and Context-Specific Approaches'</b> in the upcoming proceedings!</div>
     </div>
 
 
