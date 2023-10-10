@@ -18,7 +18,7 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a digital learning postdoctoral associate researcher at MIT. My primary research focus lies in enhancing the learning experience through applying educational data science, primarily viewed through the lens of self-regulated learning theory. Outside of my research, I enjoy some K-pop while taking strolls and soaking in views here and there.
+        I am a digital learning postdoctoral associate researcher at MIT. My primary research focus is to push methodological and theoretical boundaries of learning analytics, primarily through the lens of self-regulated learning theory and data science. Outside of my research, I enjoy listening to K-pop while walking around here and there.
         </div>
     </div>
 
@@ -28,6 +28,13 @@ permalink: "/index.html"
 <!--    <div class="medium-4 columns"> Sep. 2023 </div>-->
 <!--        <div class="medium-8 columns"> I've joined XXXX as a co-chair for the posters and demonstrations track!</div>-->
 <!--    </div>-->
+
+
+    <div class = "row">
+    <div class="medium-4 columns"> Oct. 2023 </div>
+        <div class="medium-8 columns">I am thrilled to share that I will give a talk at the <b>Cornell University, the Department of Information Science</b>! Check out <b>"Advancing Learning Analytics: Insights from Trace and Survey Data on Self-Regulated Learning"</b> on October 17, at 3:30pm (ET) if you are around! </div>
+    </div>
+
 
 
     <div class = "row">
