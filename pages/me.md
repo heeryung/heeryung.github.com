@@ -45,13 +45,13 @@ permalink: "/index.html"
 
     <div class = "row">
     <div class="medium-4 columns"> Aug. 2023 </div>
-        <div class="medium-8 columns"> I am thrilled to present <a href="https://ctl.mit.edu/events/wed-08022023-1100/getting-ready-future-upskilling-scm-professionals-through-online-learning">a talk titled "Upskilling SCM Professionals through Online Learning"</a> for the MIT CTL Supply Chain Exchange August Monthly Briefing!</div>
+        <div class="medium-8 columns"> I am thrilled to present a talk titled "Upskilling SCM Professionals through Online Learning" for the MIT CTL Supply Chain Exchange August Monthly Briefing!</div>
     </div>
 
 
     <div class = "row">
     <div class="medium-4 columns"> Jun. 2023 </div>
-        <div class="medium-8 columns"> <b>My LWMOOCs paper 'Meta-LAD: Developing a Learning Analytics Dashboard With Theoretically Grounded and Context-Specific Approaches'</b> got accepted!</div>
+        <div class="medium-8 columns"> <b><a href="http://heeryung.github.io/assets/files/heeryung-lwmoocs-meta-lad.pdf">My LWMOOCs paper 'Meta-LAD: Developing a Learning Analytics Dashboard With Theoretically Grounded and Context-Specific Approaches'</a></b> got accepted!</div>
     </div>
 
 
