@@ -18,7 +18,7 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a digital learning postdoctoral associate researcher at MIT. My primary research focus is to foster self-regualted learning skills through my interdisciplinary backgrounds in human learning, data science, and learner-centered design. Outside of my research, I enjoy listening to K-pop while walking around here and there.
+        I am a research fellow at the University of Michigan School of Information. Prior to this, I worked as a digital learning postdoctoral associate researcher at MIT. My primary research focus is to advance a theoretical and methodological understanding of self-regualted learning skills through machine learning, educational theory, and learner-centered design. Outside of my research, I enjoy listening to K-pop while walking around here and there.
         </div>
     </div>
 
