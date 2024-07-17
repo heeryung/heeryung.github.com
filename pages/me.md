@@ -18,7 +18,7 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a research fellow at the University of Michigan School of Information. Prior to this, I worked as a digital learning postdoctoral associate researcher at MIT. My primary research focus is to advance a theoretical and methodological understanding of self-regualted learning skills through machine learning, educational theory, and learner-centered design. Outside of my research, I enjoy listening to K-pop while walking around here and there.
+        I am a research fellow at the University of Michigan School of Information. Prior to this, I worked as a digital learning postdoctoral associate researcher at MIT. My primary research focus is to advance a theoretical and methodological understanding of self-regualted learning (SRL) skills through machine learning, educational theory, and learner-centered design. I believe SRL skills, such as metacognitive thinking, are even more crucial in this AI erea. Outside of my research, I enjoy listening to K-pop while walking around here and there.
         </div>
     </div>
 
@@ -28,6 +28,19 @@ permalink: "/index.html"
 <!--    <div class="medium-4 columns"> Sep. 2023 </div>-->
 <!--        <div class="medium-8 columns"> I've joined XXXX as a co-chair for the posters and demonstrations track!</div>-->
 <!--    </div>-->
+
+
+    <div class = "row">
+    <div class="medium-4 columns"> Jul. 2024 </div>
+        <div class="medium-8 columns">Our work was accpeted to the 2024 annual meeting of Academic Data Science Alliance (ADSA)! Stay tuned for our lightening talk on associations between sociodemographic backgrounds of students and generative AI uses!</div>
+    </div>
+
+
+    <div class = "row">
+    <div class="medium-4 columns"> May. 2024 </div>
+        <div class="medium-8 columns">I am happy to work again at the University of Michigan as a research fellow, where I met so many great people!</div>
+    </div>
+
 
 
     <div class = "row">
