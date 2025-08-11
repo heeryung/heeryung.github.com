@@ -46,7 +46,7 @@ permalink: "/index.html"
 
     <div class="row">
       <div class="medium-4 columns"> Apr. 2025 </div>
-      <div class="medium-8 columns">Our paper for the <b>Artificial Intelligence in Education (AIED) 2025 Conference</b> was accepted! Looking forward to sharing our findings on human–AI interaction in learning contexts.</div>
+      <div class="medium-8 columns">Our paper <href="https://heeryung.github.io/assets/files/heeryung-2025-AIED-plan-more.pdf"><b>Plan More, Debug Less: Applying Metacognitive Theory to AI-Assisted Programming Education</b> for the <b>Artificial Intelligence in Education (AIED) 2025 Conference</b> got accepted! Looking forward to sharing how we leveraged reflection propmts to encourage more meaningful interactions between students and AI-generated hints!</div>
     </div>
 
     <div class="row">
