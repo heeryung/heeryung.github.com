@@ -18,9 +18,24 @@ permalink: "/index.html"
             <a href = "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf" style="text-decoration:none"> <img src = "http://heeryung.github.io/images/cv.png" width="25" height="25" alt="cv"/></a>
         </div>
         <div class = "medium-8 columns">
-        I am a research fellow at the University of Michigan School of Information. Prior to this, I worked as a digital learning postdoctoral associate researcher at MIT. My primary research focus is to advance a theoretical and methodological understanding of self-regualted learning (SRL) skills through machine learning, educational theory, and learner-centered design. I believe SRL skills, such as metacognitive thinking, are even more crucial in this AI erea. Outside of my research, I enjoy listening to K-pop while walking around here and there.
+          <p>
+            I am a learning science researcher, currently working as a postdoctoral researcher in the Department of Educational Psychology at the University of Minnesota with Profs. Panayiota Kendeou and Caitlin Mills. I earned my PhD in Information from the University of Michigan under the supervision of Prof. Christopher Brooks.
+          </p>
+        
+          <p>
+            My work focuses on optimizing educational technology to be more human-centered, grounded in self-regulated learning theory. I use mixed methods, experiments, statistical analyses, and machine learning to investigate how technology can support learners’ agency and metacognition.
+          </p>
+        
+          <p>Recently, my research has centered on:</p>
+          <ul>
+            <li>Promoting learner agency through human–AI interaction in educational settings</li>
+            <li>Designing and validating multimodal learning trace data for a richer understanding of motivation and engagement</li>
+          </ul>
+        
+          <p>
+            Outside of research, I enjoy taking walks while listening to K-pop.
+          </p>
         </div>
-    </div>
 
 
     <h4> News </h4>
@@ -29,16 +44,29 @@ permalink: "/index.html"
 <!--        <div class="medium-8 columns"> I've joined XXXX as a co-chair for the posters and demonstrations track!</div>-->
 <!--    </div>-->
 
-
-    <div class = "row">
-    <div class="medium-4 columns"> Jul. 2024 </div>
-        <div class="medium-8 columns">Our work was accpeted to the 2024 annual meeting of Academic Data Science Alliance (ADSA)! Stay tuned for our lightening talk on associations between sociodemographic backgrounds of students and generative AI uses!</div>
+    <div class="row">
+      <div class="medium-4 columns"> Apr. 2025 </div>
+      <div class="medium-8 columns">Our paper for the <b>Artificial Intelligence in Education (AIED) 2025 Conference</b> was accepted! Looking forward to sharing our findings on human–AI interaction in learning contexts.</div>
     </div>
 
+    <div class="row">
+      <div class="medium-4 columns"> Jan. 2025 </div>
+      <div class="medium-8 columns">I gave an invited talk at the <b>Technical University of Munich</b> on “Do You Know What You Want to Know From Data? Insights from Log and Survey Data to Capture Different Aspects of Goals.”</div>
+    </div>    
+    
+    <div class="row">
+      <div class="medium-4 columns"> Aug. 2024 </div>
+      <div class="medium-8 columns">I started my new role as a <b>Postdoctoral Research Associate</b> in the Department of Educational Psychology at the University of Minnesota, working with Profs. Panayiota Kendeou and Caitlin Mills.</div>
+    </div>
+    
+    <div class="row">
+      <div class="medium-4 columns"> Jul. 2024 </div>
+      <div class="medium-8 columns">Our work was accepted to the <b>2024 Annual Meeting of the Academic Data Science Alliance (ADSA)</b>! Stay tuned for our lightning talk on associations between students’ sociodemographic backgrounds and generative AI uses.</div>
+    </div>
 
     <div class = "row">
     <div class="medium-4 columns"> May. 2024 </div>
-        <div class="medium-8 columns">I am happy to work again at the University of Michigan as a research fellow, where I met so many great people!</div>
+        <div class="medium-8 columns">I am happy to work again at the University of Michigan as a research fellow, although it is going to be interim transition position. Go Blue!</div>
     </div>
 
 
@@ -122,9 +150,16 @@ permalink: "/index.html"
 
     <h4> Affiliations </h4>
     <div class="row">
-        <div class="medium-4 columns">2022 - Present</div>
+        <div class="medium-4 columns">2024 - Present</div>
+        <div class="medium-8 columns"><strong>University of Minnesota</strong><br>
+        Postdoctoral Associate </div>
+    </div>
+
+
+    <div class="row">
+        <div class="medium-4 columns">2022 - 2024</div>
         <div class="medium-8 columns"><strong>Massachusetts Institute of Technology</strong><br>
-        Digital learning postdoc associate</div>
+        Digital Learning Postdoc Associate</div>
     </div>
 
 
