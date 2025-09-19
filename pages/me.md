@@ -19,21 +19,21 @@ permalink: "/index.html"
         </div>
         <div class = "medium-8 columns">
           <p>
-            I am a learning science researcher, currently working as a postdoctoral researcher in the Department of Educational Psychology at the University of Minnesota with Profs. Panayiota Kendeou and Caitlin Mills. I earned my PhD in Information from the University of Michigan under the supervision of Prof. Christopher Brooks.
+            <b><i>I am a learning science researcher focusing on optimizing educational technology to be more human-centered, grounded in self-regulated learning theory.</b></i> I earned my PhD in Information from the University of Michigan under the supervision of Prof. Christopher Brooks.
           </p>
         
           <p>
-            My work focuses on optimizing educational technology to be more human-centered, grounded in self-regulated learning theory. I use mixed methods, experiments, statistical analyses, and machine learning to investigate how technology can support learners’ agency and metacognition.
+            I use mixed methods, experimental designs, statistical analyses, and machine learning to examine how technology can enhance learners’ agency and metacognition in today’s educational landscape.
           </p>
         
-          <p>Recently, my research has centered on:</p>
+          <p>My recent research includes:</p>
           <ul>
-            <li>Promoting learner agency through human–AI interaction in educational settings</li>
-            <li>Designing and validating multimodal learning trace data for a richer understanding of motivation and engagement</li>
+            <li>Advancing learner agency through human–AI interaction in digital educational environments</li>
+            <li>Designing and validating research methods to measure adjustments in learner achievement motivation using trace data</li>
           </ul>
         
           <p>
-            Outside of research, I enjoy taking walks while listening to K-pop.
+            Outside of research, I enjoy taking walks while listening to K-pop and audiobooks.
           </p>
         </div>
 
@@ -45,8 +45,13 @@ permalink: "/index.html"
 <!--    </div>-->
 
     <div class="row">
+      <div class="medium-4 columns"> Sep. 2025 </div>
+      <div class="medium-8 columns">Our SIGCSE 2026 paper (Experience Reports and Tools track), <b>"Closing the Loop: An Instructor-in-the-Loop AI Assistance System for Supporting Student Help-Seeking in Programming Education,"</b> has been accepted! I am thrilled to share our work on this human-in-the-loop AI assistance system for programming courses. Congratulations to Phung, who led the study!</div>
+    </div>
+
+    <div class="row">
       <div class="medium-4 columns"> Apr. 2025 </div>
-      <div class="medium-8 columns">Our paper <a href="https://heeryung.github.io/assets/files/heeryung-2025-AIED-plan-more.pdf"><b>Plan More, Debug Less: Applying Metacognitive Theory to AI-Assisted Programming Education</b></a> for the <b>Artificial Intelligence in Education (AIED) 2025 Conference</b> got accepted! Looking forward to sharing how we leveraged reflection propmts to encourage more meaningful interactions between students and AI-generated hints!</div>
+      <div class="medium-8 columns">Our paper <a href="https://heeryung.github.io/assets/files/heeryung-2025-AIED-plan-more.pdf"><b>"Plan More, Debug Less: Applying Metacognitive Theory to AI-Assisted Programming Education"</b></a> for the <b>Artificial Intelligence in Education (AIED) 2025 Conference</b> got accepted! Looking forward to sharing how we leveraged reflection prompts to encourage more meaningful interactions between students and AI-generated hints!</div>
     </div>
 
     <div class="row">
