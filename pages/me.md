@@ -7,7 +7,7 @@ header: no
 permalink: "/index.html"
 ---
 
-<div id = "containter">
+<div id = "container">
     <h3> Heeryung Choi </h3>
 
     <div class = "row">
@@ -19,7 +19,7 @@ permalink: "/index.html"
         </div>
         <div class = "medium-8 columns">
           <p>
-            <b><i>I am a learning science researcher focusing on optimizing educational technology to be more human-centered, grounded in self-regulated learning theory.</b></i> I earned my PhD in Information from the University of Michigan under the supervision of Prof. Christopher Brooks.
+            <b><i>I am a learning science researcher focusing on optimizing educational technology to be more human-centered, grounded in self-regulated learning theory.</i></b>. I earned my PhD in Information from the University of Michigan under the supervision of Prof. Christopher Brooks.
           </p>
         
           <p>
