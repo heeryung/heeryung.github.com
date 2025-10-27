@@ -1,7 +1,11 @@
-- title: About me
+- title: Heeryung Choi
   url: "/index.html"
   side: left
 
 - title: "CV"
   url: "http://heeryung.github.io/assets/files/cv_heeryung_fin.pdf"
+  side: left 
+
+- title: "Research/Portfolio"
+  url: /portfolio/
   side: left 
