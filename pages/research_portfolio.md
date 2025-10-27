@@ -72,11 +72,11 @@ The study develops and investigates an impact of a novel human-in-the-loop perso
 ## Personalized AI Hints: Enhancing SRL (2025, AIED)
 
 <div class="portfolio-images">
-  <img src="/images/loop_interface2.png" alt="Illustration describing a flow of learner-AI interaction" class="portfolio-image">
+  <img src="/images/plan_interaction.png" alt="Illustration describing a flow of learner-AI interaction" class="portfolio-image">
   <img src="/images/plan_illustration_hint_types.png" alt="Each hint button image with corresponding description" class="portfolio-image">
 </div>
 
-*(left) Learners' interaction with our developed intervention. (right) Examples of each hint type. Both images created by Tung Phung, the first author (2025)*
+*(left) Learners' interaction steps with our intervention. (right) Examples of each hint type. Both images created by Tung Phung, the first author (2025)*
 
 The study investigates how integrating metacognitive principles into AI-generated assistance can enhance programming learning experiences. It finds that students highly value and most benefit from planning hints, which are consistently associated with improved performance. In this work, I designed personalized AI hints aligned with key phases of self-regulated learning (SRL): planning, debugging, and optimization. 
 
