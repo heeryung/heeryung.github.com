@@ -76,6 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 *Student interface for requesting AI hints.* 
 
+
 <img src="/images/research/loop_interface2.png" alt="A screenshot of interface on instructor end(2)" class="portfolio-image">
 
 *Instructor interface for giving feedback.* 
