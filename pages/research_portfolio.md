@@ -49,20 +49,17 @@ permalink: /portfolio/
 
 </style>
 <script>
-	<script>
-	document.addEventListener('DOMContentLoaded', function() {
-	  const imgs = document.querySelectorAll('.portfolio-image');
-	  imgs.forEach(function(img) {
-	    img.addEventListener('mouseenter', function() {
-	      // Remove 'enlarge' from all images before enlarging the hovered one
-	      imgs.forEach(i => i.classList.remove('enlarge'));
-	      this.classList.add('enlarge');
-	    });
-	    img.addEventListener('mouseleave', function() {
-	      this.classList.remove('enlarge');
-	    });
-	  });
-	});
+document.addEventListener('DOMContentLoaded', function() {
+  var imgs = document.querySelectorAll('.portfolio-image');
+  imgs.forEach(function(img) {
+    img.addEventListener('mouseenter', function() {
+      this.classList.add('enlarge');
+    });
+    img.addEventListener('mouseleave', function() {
+      this.classList.remove('enlarge');
+    });
+  });
+});
 </script>
 
 
