@@ -30,6 +30,21 @@ permalink: /portfolio/
 	  background: white;
 	  border-radius: 20px;
 	}
+	
+	/* Special larger enlarged style */
+	.portfolio-image-large.enlarge {
+	  width: 900px;
+	  max-height: 90vh;
+	  border-radius: 32px;
+	}
+	
+	/* Extra large */
+	.portfolio-image-xlarge.enlarge {
+	  width: 1200px;
+	  max-width: 98vw;
+	  max-height: 95vh;
+	  border-radius: 48px;
+	}
 
 </style>
 <script>
@@ -58,8 +73,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <div class="portfolio-images">
-  <img src="/images/loop_interface.png" alt="A screenshot of interface on student end" class="portfolio-image">
-  <img src="/images/loop_interface2.png" alt="A screenshot of interface on instructor end(2)" class="portfolio-image">
+  <img src="/images/research/loop_interface.png" alt="A screenshot of interface on student end" class="portfolio-image">
+  <img src="/images/research/loop_interface2.png" alt="A screenshot of interface on instructor end(2)" class="portfolio-image">
 </div>
 
 *(left) Student interface for requesting AI hints. (right) Instructor interface for giving feedback as a single-
@@ -71,12 +86,11 @@ The study develops and investigates an impact of a novel human-in-the-loop perso
 
 ---
 
-
 ## Personalized AI Hints: Enhancing SRL (2025, AIED)
 
 <div class="portfolio-images">
-  <img src="/images/plan_interaction.png" alt="Illustration describing a flow of learner-AI interaction" class="portfolio-image">
-  <img src="/images/plan_illustration_hint_types.png" alt="Each hint button image with corresponding description" class="portfolio-image">
+  <img src="/images/research/plan_interaction.png" alt="Illustration describing a flow of learner-AI interaction" class="portfolio-image">
+  <img src="/images/research/plan_illustration_hint_types.png" alt="Each hint button image with corresponding description" class="portfolio-image portfolio-image-xlarge">
 </div>
 
 *(left) Learners' interaction steps with our intervention. (right) Examples of each hint type. Both images created by Tung Phung, the first author (2025)*
@@ -90,7 +104,7 @@ The study investigates how integrating metacognitive principles into AI-generate
 ## MetaLAD: Dashboard Supporting Metacognition (2023, LWMOOCs)
 
 
-<img src="/images/research/dashboard_screenshot.png" alt="Screenshots of subtitle designs of each experiment condition" class="portfolio-image">
+<img src="/images/research/dashboard_screenshot.png" alt="Screenshots of subtitle designs of each experiment condition" class="portfolio-image portfolio-image-large">
 
 *A screenshot of MetaLAD, a dashboard designed to support working professionals taking online certificate courses*
 
@@ -102,7 +116,7 @@ Led a project to develop a dashboard, ground in self-regulated laerning theory, 
 
 ## Pairing Hints with Reflection (2023, Internet and Higher Education)
 
-<img src="/images/research/dls_process.png" alt="Four screenshots of the intervention showing how learners' interactions with the intervention were." class="portfolio-image">
+<img src="/images/research/dls_process.png" alt="Four screenshots of the intervention showing how learners' interactions with the intervention were." class="portfolio-image portfolio-image-xlarge">
 
 *Screenshots of the intervention. (a) Each task has a ‘Show Hint’ button below the task text. (b) When a learner clicks the ‘Show Hint’ button, a pop-up appears and shows a list of available hints. (c) The full text of the chosen hint is shown on a pop-up and also inscribed below the associated task so that a learner can see hints after closing the pop-up. (d) When a learner clicks a button to submit the current task, a reflection prompt pop-up appears. Upon completing the prompt, the learner’s submission is graded by an autograder.*
 
@@ -119,7 +133,7 @@ This study, that I led, investigates whether providing reflection prompts alongs
 
 ## Textual Aid Design Recommendations (2022, SIGCSE)
 
-<img src="/images/research/subtitle_screenshot.png" alt="Screenshots of subtitle designs of each experiment condition" class="portfolio-image">
+<img src="/images/research/subtitle_screenshot.png" alt="Screenshots of subtitle designs of each experiment condition" class="portfolio-image portfolio-image-xlarge">
 
 *Examples of subtitle designs of five experiment conditions*
 
