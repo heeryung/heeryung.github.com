@@ -49,6 +49,7 @@ permalink: /portfolio/
 
 </style>
 <script>
+	<script>
 	document.addEventListener('DOMContentLoaded', function() {
 	  const imgs = document.querySelectorAll('.portfolio-image');
 	  imgs.forEach(function(img) {
@@ -62,7 +63,6 @@ permalink: /portfolio/
 	    });
 	  });
 	});
-
 </script>
 
 
