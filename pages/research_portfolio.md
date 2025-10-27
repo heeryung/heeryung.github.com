@@ -72,13 +72,14 @@ document.addEventListener('DOMContentLoaded', function() {
 ## Personalized AI Hints: Human-in-the-Loop (2025, L@S)
 
 
-<div class="portfolio-images">
-  <img src="/images/research/loop_interface.png" alt="A screenshot of interface on student end" class="portfolio-image">
-  <img src="/images/research/loop_interface2.png" alt="A screenshot of interface on instructor end(2)" class="portfolio-image">
-</div>
+<img src="/images/research/loop_interface.png" alt="A screenshot of interface on student end" class="portfolio-image">
 
-*(left) Student interface for requesting AI hints. (right) Instructor interface for giving feedback as a single-
-page website. Both images created by Tung Phung, the first author (2025)*
+*Student interface for requesting AI hints.* 
+
+<img src="/images/research/loop_interface2.png" alt="A screenshot of interface on instructor end(2)" class="portfolio-image">
+
+*Instructor interface for giving feedback.* 
+*Both images created by Tung Phung, the first author (2025)*
 
 The study develops and investigates an impact of a novel human-in-the-loop personalized AI help framework; Students can first request AI-generated hints directly in their coding environment (JupyterLab). If they find an AI hint unhelpful, they have the option to escalate the request for human instructor feedback, with additional context if needed. I supported study finding analysis to draw insights from the learner-AI-instructor feedback loop; Interestingly, we found that human-provided feedback was also wrong for a half of the time, in cases when students escalated their problems. This might imply that there are certain programming problems that are difficult for both humans and AI to provide helpful assistance to learners. 
 
@@ -92,7 +93,7 @@ The study develops and investigates an impact of a novel human-in-the-loop perso
 
 <img src="/images/research/plan_illustration_hint_types.png" alt="Each hint button image with corresponding description" class="portfolio-image portfolio-image-xlarge">
 
-*Examples of each hint type. Both images created by Tung Phung, the first author (2025)*
+*Examples of each hint type. Image created by Tung Phung, the first author (2025)*
 <!-- (left) Learners' interaction steps with our intervention. (right)  -->
 
 The study investigates how integrating metacognitive principles into AI-generated assistance can enhance programming learning experiences. It finds that students highly value and most benefit from planning hints, which are consistently associated with improved performance. In this work, I designed personalized AI hints aligned with key phases of self-regulated learning (SRL): planning, debugging, and optimization. 
