@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "Research/Portfolio"
+title: "Research Portfolio"
 permalink: /portfolio/
 ---
 
 
 # Research Portfolio
 
-I share selected research projects reflecting my work in self-regulated learning, human-centered design, educational technology, and learning analytics. Each project summary highlights its core scholarly contribution as well as practical outcomes through publications and implemented edtech interventions.
+<p class="research-portfolio-intro">
+  Selected research projects reflecting my journey in self-regulated learning, human-centered design, educational technology, and learning analytics.
+</p>
 ---
 ***
 
