@@ -33,15 +33,18 @@ permalink: /portfolio/
 
 </style>
 <script>
-document.querySelectorAll('.portfolio-image').forEach(img => {
-  img.addEventListener('mouseenter', function() {
-    this.classList.add('enlarge');
-  });
-  img.addEventListener('mouseleave', function() {
-    this.classList.remove('enlarge');
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.portfolio-image').forEach(function(img) {
+    img.addEventListener('mouseenter', function() {
+      this.classList.add('enlarge');
+    });
+    img.addEventListener('mouseleave', function() {
+      this.classList.remove('enlarge');
+    });
   });
 });
 </script>
+
 
 
 <p class="research-portfolio-intro">
@@ -81,19 +84,6 @@ The study develops and investigates an impact of a novel human-in-the-loop perso
 The study investigates how integrating metacognitive principles into AI-generated assistance can enhance programming learning experiences. It finds that students highly value and most benefit from planning hints, which are consistently associated with improved performance. In this work, I designed personalized AI hints aligned with key phases of self-regulated learning (SRL): planning, debugging, and optimization. 
 
 📰 [arXiv Print](https://arxiv.org/pdf/2509.03171)
-
-<!-----
-
-
-## Personalized AI Hints: Prompting Reflections (under review)
-
-<!-- ![Placeholder image for AI Hints project](#)
-*Figure 1: Conceptual overview of personalized AI hint generation.* -->
-
-
-TBD
-
-<!-- 📰 [arXiv Print](https://arxiv.org/pdf/2509.03171) --> -->
 
 ---
 
