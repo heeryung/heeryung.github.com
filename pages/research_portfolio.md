@@ -44,21 +44,27 @@ permalink: /portfolio/
 	  max-width: 98vw;
 	  max-height: 95vh;
 	  border-radius: 48px;
+	  z-index: 9999;
 	}
 
 </style>
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.portfolio-image').forEach(function(img) {
-    img.addEventListener('mouseenter', function() {
-      this.classList.add('enlarge');
-    });
-    img.addEventListener('mouseleave', function() {
-      this.classList.remove('enlarge');
-    });
-  });
-});
+	document.addEventListener('DOMContentLoaded', function() {
+	  const imgs = document.querySelectorAll('.portfolio-image');
+	  imgs.forEach(function(img) {
+	    img.addEventListener('mouseenter', function() {
+	      // Remove 'enlarge' from all images before enlarging the hovered one
+	      imgs.forEach(i => i.classList.remove('enlarge'));
+	      this.classList.add('enlarge');
+	    });
+	    img.addEventListener('mouseleave', function() {
+	      this.classList.remove('enlarge');
+	    });
+	  });
+	});
+
 </script>
+
 
 
 
@@ -97,7 +103,6 @@ The study develops and investigates an impact of a novel human-in-the-loop perso
 <img src="/images/research/plan_illustration_hint_types.png" alt="Each hint button image with corresponding description" class="portfolio-image portfolio-image-xlarge">
 
 *Examples of each hint type.*
-
 *Both images created by Tung Phung, the first author (2025)*
 
 The study investigates how integrating metacognitive principles into AI-generated assistance can enhance programming learning experiences. It finds that students highly value and most benefit from planning hints, which are consistently associated with improved performance. In this work, I designed personalized AI hints aligned with key phases of self-regulated learning (SRL): planning, debugging, and optimization. 
