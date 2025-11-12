@@ -45,8 +45,13 @@ permalink: "/index.html"
 <!--    </div>-->
 
     <div class="row">
+      <div class="medium-4 columns"> Nov. 2025 </div>
+      <div class="medium-8 columns">My first AERA paper has been accepted! I'll be presenting next year what insights from longitudinal, large-scale institutional data analysis. I'm so excited to join AERA 2026 as a presenter 😁. </div>
+    </div>
+
+    <div class="row">
       <div class="medium-4 columns"> Sep. 2025 </div>
-      <div class="medium-8 columns">Our SIGCSE 2026 paper (Experience Reports and Tools track), <b>"Closing the Loop: An Instructor-in-the-Loop AI Assistance System for Supporting Student Help-Seeking in Programming Education,"</b> has been accepted! I am thrilled to share our work on this human-in-the-loop AI assistance system for programming courses. Congratulations to Phung, who led the study!</div>
+      <div class="medium-8 columns">Our SIGCSE 2026 paper <a href="https://arxiv.org/pdf/2509.03269"><b>"Closing the Loop: An Instructor-in-the-Loop AI Assistance System for Supporting Student Help-Seeking in Programming Education,"</b></a> has been accepted! I am thrilled to share our work on this human-in-the-loop AI assistance system for programming courses. Congratulations to Phung, who led the study!</div>
     </div>
 
     <div class="row">
