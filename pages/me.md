@@ -45,6 +45,11 @@ permalink: "/index.html"
 <!--    </div>-->
 
     <div class="row">
+      <div class="medium-4 columns"> Dec. 2025 </div>
+      <div class="medium-8 columns">Best Paper at SIGCSE 2026! Kudos to first author Tung Phung (Max Planck Institute for Software Systems) 👏🏼. Check out the paper <a href="https://heeryung.github.io/assets/files/heeryung-2025-AIED-plan-more.pdf">here</a> </div>
+    </div>
+
+    <div class="row">
       <div class="medium-4 columns"> Nov. 2025 </div>
       <div class="medium-8 columns">My first AERA paper has been accepted! I'll be presenting next year what insights from longitudinal, large-scale institutional data analysis. I'm so excited to join AERA 2026 as a presenter 😁. </div>
     </div>
