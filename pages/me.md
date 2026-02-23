@@ -43,6 +43,10 @@ permalink: "/index.html"
 <!--    <div class="medium-4 columns"> Sep. 2023 </div>-->
 <!--        <div class="medium-8 columns"> I've joined XXXX as a co-chair for the posters and demonstrations track!</div>-->
 <!--    </div>-->
+    <div class="row">
+      <div class="medium-4 columns"> Feb. 2026 </div>
+      <div class="medium-8 columns">Invited to give a talk at the University of Wisconsin--Madison. I am very excited to share my research with the community! </a></div>
+    </div>
 
     <div class="row">
       <div class="medium-4 columns"> Jan. 2026 </div>
