@@ -45,7 +45,7 @@ permalink: "/index.html"
 <!--    </div>-->
     <div class="row">
       <div class="medium-4 columns"> Feb. 2026 </div>
-      <div class="medium-8 columns">Invited to give a talk at the University of Wisconsin--Madison. I am very excited to share my research with the community! </a></div>
+      <div class="medium-8 columns">Invited to give a talk at the University of Wisconsin--Madison. I am very excited to share my research with the community! </div>
     </div>
 
     <div class="row">
